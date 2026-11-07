@@ -1,5 +1,5 @@
 
-name: Extraction des participations FFBC
+name: Extraction des participations FFBC pour Palmares club RPA
 
 on:
   schedule:
