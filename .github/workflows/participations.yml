@@ -1,0 +1,51 @@
+
+name: Extraction des participations FFBC
+
+on:
+  schedule:
+    # Tous les jours à 05:15 UTC
+    - cron: '15 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  extraction:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installer les dépendances
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r extractions/participations/requirements.txt
+
+      - name: Exécuter l'extraction
+        env:
+          FFBC_USERNAME: ${{ secrets.FFBC_USERNAME }}
+          FFBC_PASSWORD: ${{ secrets.FFBC_PASSWORD }}
+          OUTPUT_DIR: data/participations
+        run: |
+          python extractions/participations/extract_participations.py
+
+      - name: Enregistrer les CSV dans GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/participations/
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualisation des participations FFBC"
+            git push
+          else
+            echo "Aucune modification des CSV."
+          fi
