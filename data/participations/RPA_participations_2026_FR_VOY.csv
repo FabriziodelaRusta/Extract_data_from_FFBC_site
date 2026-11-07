@@ -1,0 +1,63 @@
+Date;Randonnée;Nom;Parcours;Challenges
+2026-07-06;J0 Vienne Hbf - Hotel;PODRECCA Fabrizio;5;Voyage : Vienne - Gorizia
+2026-07-07;J1 Vienne - Mönichkirchen;PODRECCA Fabrizio;132;Voyage : Vienne - Gorizia
+2026-07-08;J2 Mönichkirchen - Edlich;PODRECCA Fabrizio;102;Voyage : Vienne - Gorizia
+2026-07-09;J3 Edlich - Maribor;PODRECCA Fabrizio;108;Voyage : Vienne - Gorizia
+2026-07-10;J4 Maribor - Celje;PODRECCA Fabrizio;82;Voyage : Vienne - Gorizia
+2026-07-11;J5 Celje - Ljubjana;PODRECCA Fabrizio;93;Voyage : Vienne - Gorizia
+2026-07-12;J6 Ljubjana - Tarvisio;PODRECCA Fabrizio;118;Voyage : Vienne - Gorizia
+2026-07-13;J7 Tarvisio - Tolmin;PODRECCA Fabrizio;75;Voyage : Vienne - Gorizia
+2026-07-14;J8 Tolmin - Gorizia;PODRECCA Fabrizio;38;Voyage : Vienne - Gorizia
+2026-07-15;J9 Monfalcone - Cervignano;PODRECCA Fabrizio;60;Voyage : Vienne - Gorizia
+2026-07-06;J0 Vienne Hbf - Hotel;FERROCINO Olivier;5;Voyage : Vienne - Gorizia
+2026-07-07;J1 Vienne - Mönichkirchen;FERROCINO Olivier;132;Voyage : Vienne - Gorizia
+2026-07-08;J2 Mönichkirchen - Edlich;FERROCINO Olivier;102;Voyage : Vienne - Gorizia
+2026-07-09;J3 Edlich - Maribor;FERROCINO Olivier;108;Voyage : Vienne - Gorizia
+2026-07-10;J4 Maribor - Celje;FERROCINO Olivier;82;Voyage : Vienne - Gorizia
+2026-07-11;J5 Celje - Ljubjana;FERROCINO Olivier;93;Voyage : Vienne - Gorizia
+2026-07-12;J6 Ljubjana - Tarvisio;FERROCINO Olivier;118;Voyage : Vienne - Gorizia
+2026-07-13;J7 Tarvisio - Tolmin;FERROCINO Olivier;75;Voyage : Vienne - Gorizia
+2026-07-14;J8 Tolmin - Gorizia;FERROCINO Olivier;38;Voyage : Vienne - Gorizia
+2026-07-15;J9 Monfalcone - Cervignano;FERROCINO Olivier;60;Voyage : Vienne - Gorizia
+2026-07-06;J0 Vienne Hbf - Hotel;SCHELSTRAETE Etienne;5;Voyage : Vienne - Gorizia
+2026-07-07;J1 Vienne - Mönichkirchen;SCHELSTRAETE Etienne;132;Voyage : Vienne - Gorizia
+2026-07-08;J2 Mönichkirchen - Edlich;SCHELSTRAETE Etienne;102;Voyage : Vienne - Gorizia
+2026-07-09;J3 Edlich - Maribor;SCHELSTRAETE Etienne;108;Voyage : Vienne - Gorizia
+2026-07-10;J4 Maribor - Celje;SCHELSTRAETE Etienne;82;Voyage : Vienne - Gorizia
+2026-07-11;J5 Celje - Ljubjana;SCHELSTRAETE Etienne;93;Voyage : Vienne - Gorizia
+2026-07-12;J6 Ljubjana - Tarvisio;SCHELSTRAETE Etienne;118;Voyage : Vienne - Gorizia
+2026-07-13;J7 Tarvisio - Tolmin;SCHELSTRAETE Etienne;75;Voyage : Vienne - Gorizia
+2026-07-14;J8 Tolmin - Gorizia;SCHELSTRAETE Etienne;38;Voyage : Vienne - Gorizia
+2026-07-15;J9 Monfalcone - Cervignano;SCHELSTRAETE Etienne;60;Voyage : Vienne - Gorizia
+2026-06-15;Ecluzelles - Marcilly/Eure - Ivry la Bataille - Bû - Ecluzelles;PODRECCA Fabrizio;63;Séjour : Eure-et-Loir
+2026-06-16;Ecluzelles - Rambouillet - Dampierre - Monfort - Ecluzelles;PODRECCA Fabrizio;136;Séjour : Eure-et-Loir
+2026-06-17;Ecluzelles - Senonches - Dangers - Ecluzelles;PODRECCA Fabrizio;139;Séjour : Eure-et-Loir
+2026-06-18;Ecluzelles - St Rémy/Arve - Senonches - Puisieux - Ecluzelles;PODRECCA Fabrizio;116;Séjour : Eure-et-Loir
+2026-06-15;Ecluzelles - Marcilly/Eure - Ivry la Bataille - Bû - Ecluzelles;LECLUSELLE Patrick;63;Séjour : Eure-et-Loir
+2026-06-16;Ecluzelles - Rambouillet - Dampierre - Monfort - Ecluzelles;LECLUSELLE Patrick;136;Séjour : Eure-et-Loir
+2026-06-17;Ecluzelles - Senonches - Dangers - Ecluzelles;LECLUSELLE Patrick;139;Séjour : Eure-et-Loir
+2026-06-18;Ecluzelles - St Rémy/Arve - Senonches - Puisieux - Ecluzelles;LECLUSELLE Patrick;116;Séjour : Eure-et-Loir
+2025-06-16;Saint-Sulpice 1;LECLUSELLE Patrick;76;Séjour : Oise
+2025-06-17;Saint-Sulpice 2;LECLUSELLE Patrick;153;Séjour : Oise
+2025-06-18;Saint-Sulpice 3;LECLUSELLE Patrick;161;Séjour : Oise
+2025-06-19;Saint-Sulpice 4;LECLUSELLE Patrick;119;Séjour : Oise
+2025-06-16;Saint-Sulpice 1;PODRECCA Fabrizio;76;Séjour : Oise
+2025-06-17;Saint-Sulpice 2;PODRECCA Fabrizio;153;Séjour : Oise
+2025-06-18;Saint-Sulpice 3;PODRECCA Fabrizio;161;Séjour : Oise
+2025-06-19;Saint-Sulpice 4;PODRECCA Fabrizio;119;Séjour : Oise
+2026-03-14;R3 Antoing - Ploesteert - Antoing R25;PODRECCA Fabrizio;65;FR : R3
+2026-03-14;R3 Antoing - Ploesteert - Antoing R26;PODRECCA Fabrizio;65;FR : R26
+2026-03-14;R3 Antoing - Ploesteert - Antoing R25;FOUCART Daniel;65;FR : R3
+2026-03-14;R3 Antoing - Ploesteert - Antoing R26;FOUCART Daniel;65;FR : R26
+2026-03-14;R3 Antoing - Ploesteert - Antoing R25;BONNET Pierre;65;FR : R3
+2026-03-14;R3 Antoing - Ploesteert - Antoing R26;BONNET Pierre;65;FR : R26
+2026-03-14;R3 Antoing - Ploesteert - Antoing R25;LECLUSELLE Patrick;65;FR : R3
+2026-03-14;R3 Antoing - Ploesteert - Antoing R26;LECLUSELLE Patrick;65;FR : R26
+2026-03-14;R3 Antoing - Ploesteert - Antoing R25;BRUGGEMAN Vincent;65;FR : R3
+2026-03-14;R3 Antoing - Ploesteert - Antoing R26;BRUGGEMAN Vincent;65;FR : R26
+2026-03-14;R3 Antoing - Ploesteert - Antoing R25;FERROCINO Olivier;65;FR : R3
+2026-03-14;R3 Antoing - Ploesteert - Antoing R26;FERROCINO Olivier;65;FR : R26
+2026-03-14;R3 Antoing - Ploesteert - Antoing R25;SCHELSTRAETE Etienne;65;FR : R3
+2026-03-14;R3 Antoing - Ploesteert - Antoing R26;SCHELSTRAETE Etienne;65;FR : R26
+2026-03-14;R3 Antoing - Ploesteert - Antoing R25;FERROCINO Olivier;65;FR : R3
+2026-03-14;R3 Antoing - Ploesteert - Antoing R26;FERROCINO Olivier;65;FR : R26
