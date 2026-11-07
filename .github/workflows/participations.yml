@@ -36,12 +36,17 @@ jobs:
         run: |
           python extractions/participations/extract_participations.py
 
+      - name: Copier les CSV vers Input_files
+        run: |
+          mkdir -p Input_files/participations
+          cp data/participations/*.csv Input_files/participations/
+
       - name: Enregistrer les CSV dans GitHub
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/participations/
+          git add data/participations/ Input_files/participations/
 
           if ! git diff --cached --quiet; then
             git commit -m "Actualisation des participations FFBC"
