@@ -1,13 +1,12 @@
-
 #!/usr/bin/env python3
 # Projet : Velo Liberte Palmares
-# Version : 3.1
-# Fonction : exporter les participations du club pour l'année sélectionnée
-#            et l'année précédente, dans deux fichiers CSV distincts.
-# Compatible Linux Mint et GitHub Actions.
+# Version : 3.5
+# Fonction : exporter les participations du club selon la saison cycliste.
+#            Du 01/01 au 31/10 : année sélectionnée et année précédente.
+#            À partir du 01/11 : année sélectionnée uniquement.
 
 import csv
-import os
+from datetime import date
 import sys
 from pathlib import Path
 from subprocess import run
@@ -19,14 +18,7 @@ BASE_URL = "https://velo-liberte-palmares.be"
 LOGIN_URL = BASE_URL + "/membres/login/?next=/participations/club/"
 LOGIN_POST_URL = BASE_URL + "/membres/login/"
 PARTICIPATIONS_URL = BASE_URL + "/participations/club/"
-
-OUTPUT_DIR = Path(
-    os.environ.get(
-        "OUTPUT_DIR",
-        "/home/sabine/Téléchargements"
-    )
-)
-
+OUTPUT_DIR = Path("/home/sabine/Téléchargements")
 SECRET_SERVICE = "velo-liberte-palmares-test"
 
 EXPECTED_HEADERS = [
@@ -39,30 +31,20 @@ EXPECTED_HEADERS = [
 ]
 
 
+def years_to_export(selected_year, run_date):
+    """Retourner les années FFBC requises selon la date d’exécution.
+
+    Du 1er janvier au 31 octobre, une saison nécessite l’année
+    précédente et l’année courante. À partir du 1er novembre,
+    l’année précédente n’est plus exportée.
+    """
+    if (run_date.month, run_date.day) < (11, 1):
+        return [selected_year, selected_year - 1]
+    return [selected_year]
+
+
 def get_secret(field):
-    """
-    Récupérer les identifiants :
-    - GitHub Actions : variables d'environnement.
-    - Linux Mint : trousseau GNOME Keyring.
-    """
-    if os.environ.get("GITHUB_ACTIONS") == "true":
-        env_name = {
-            "username": "FFBC_USERNAME",
-            "password": "FFBC_PASSWORD",
-        }.get(field)
-
-        if not env_name:
-            raise RuntimeError(f"Champ inconnu : {field}")
-
-        value = os.environ.get(env_name)
-
-        if value is None or value == "":
-            raise RuntimeError(
-                f"Secret GitHub manquant : {env_name}"
-            )
-
-        return value
-
+    """Récupérer une information d'identification dans le trousseau Linux."""
     result = run(
         [
             "secret-tool",
@@ -135,6 +117,8 @@ def read_participations(session, year):
         if not cells:
             continue
 
+        # Ignorer les lignes qui ne contiennent qu'un message
+        # d'absence de résultats, mais refuser une structure inattendue.
         if len(cells) != len(headers):
             if len(cells) == 1:
                 continue
@@ -241,12 +225,14 @@ def main():
         except ValueError:
             raise RuntimeError("L'année sélectionnée est invalide.")
 
-        years = [selected_year, selected_year - 1]
-
-        print(f"Années à exporter : {years[0]} et {years[1]}")
+        run_date = date.today()
+        years = years_to_export(selected_year, run_date)
+        print(f"Date d’exécution : {run_date.isoformat()}")
+        print("Années à exporter : " + " et ".join(map(str, years)))
 
         OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
+        # Chaque année est traitée séparément.
         for year in years:
             headers, rows = read_participations(session, year)
             write_csv(year, headers, rows)
