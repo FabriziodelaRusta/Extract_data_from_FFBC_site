@@ -39,8 +39,15 @@ jobs:
       - name: Copier les CSV vers Input_files
         run: |
           mkdir -p Input_files/participations
+
+          echo "Fichiers disponibles après extraction :"
+          ls -l data/participations/
+
           cp data/participations/*.csv Input_files/participations/
 
+          echo "Fichiers copiés :"
+          ls -l Input_files/participations/
+          
       - name: Enregistrer les CSV dans GitHub
         run: |
           git config user.name "github-actions[bot]"
