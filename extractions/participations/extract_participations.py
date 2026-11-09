@@ -174,8 +174,8 @@ def read_participations(session, year):
 
 def write_csv(year, headers, rows):
     """Écrire un CSV avec le séparateur ; et l'encodage UTF-8 BOM."""
-    output_file = OUTPUT_DIR / f"RPA_participations_club_{year}.csv"
-    temporary_file = OUTPUT_DIR / f"RPA_participtions_club_{year}.csv.tmp"
+    output_file = OUTPUT_DIR / f"RPA_participations_{year}.csv"
+    temporary_file = OUTPUT_DIR / f"RPA_participtions_{year}.csv.tmp"
 
     try:
         with temporary_file.open(
