@@ -34,7 +34,7 @@ jobs:
           FFBC_PASSWORD: ${{ secrets.FFBC_PASSWORD }}
           OUTPUT_DIR: data/participations
         run: |
-          python extractions/participations/extract_participations.py
+          python -u extractions/participations/extract_participations.py
          
       - name: Enregistrer les CSV dans GitHub
         run: |
