@@ -1,0 +1,3146 @@
+{
+  "source": "https://www.velo-liberte.be/calendrier/",
+  "mois_extrait": "2027-08",
+  "date_extraction": "2026-11-13",
+  "nombre_randonnées": 52,
+  "randonnées": [
+    {
+      "id": "10145",
+      "nom": "La Vallonnée",
+      "date": "2027-08-01",
+      "province": "Luxembourg",
+      "code_postal": "6640",
+      "localite": "Vaux-sur-Sure (Morhet) Brevet à Dénivelé",
+      "texte_calendrier": "Voir plus + Voir moins - La Vallonnée Dimanche 01 Août 2027 Luxembourg - 6640 Vaux-sur-Sure (Morhet) Brevet à Dénivelé",
+      "lieu_depart": "Centre sportif Vaux Sur-Sure",
+      "adresse": "1 et 3 Chemin des Lauriers 6640 Vaux-sur-Sure (Morhet)",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 et 3 Chemin des Lauriers 6640 Vaux-sur-Sure (Morhet)",
+      "club": "3603 - VAUX-SUR-SURE Vélo-Passion asbl",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 114,
+          "denivele": "D+ : 1548",
+          "difficulte": null,
+          "horaires": "07h00 - 08h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 6,50€ / NON FFBC : 8,00€"
+        },
+        {
+          "type": "BAD",
+          "distance_km": 89,
+          "denivele": "D+ : 1100",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,50€ / NON FFBC : 7,00€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 59,
+          "denivele": "D+ : 591",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,50€ / NON FFBC : 6,00€"
+        },
+        {
+          "type": "FAMILY",
+          "distance_km": 44,
+          "denivele": "D+ : 415",
+          "difficulte": null,
+          "horaires": "08h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        }
+      ],
+      "remarque": "Fléchage assuré au sol\nTrace GPS dispo sur site internet\nDouches, parking vélo sécurisé",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-passion.be",
+          "url": "http://www.velo-passion.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10147",
+      "nom": "La Traditionnelle",
+      "date": "2027-08-01",
+      "province": "Hainaut",
+      "code_postal": "7911",
+      "localite": "Frasnes-Lez-Anvaing Brevet à Dénivelé",
+      "texte_calendrier": "Voir plus + Voir moins - La Traditionnelle Dimanche 01 Août 2027 Hainaut - 7911 Frasnes-Lez-Anvaing Brevet à Dénivelé",
+      "lieu_depart": "Maison des jeunes Vaniche",
+      "adresse": "1 Route de Lesinnes 7911 Frasnes-Lez-Anvaing",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Route de Lesinnes 7911 Frasnes-Lez-Anvaing",
+      "club": "8819 - CYCLO CLUB FRASNES",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 122,
+          "denivele": "D+ : 1750",
+          "difficulte": null,
+          "horaires": "07h00 - 09h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 92,
+          "denivele": "D+ : 860",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 60,
+          "denivele": "D+ : 630",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "FAMILY",
+          "distance_km": 30,
+          "denivele": "D+ : 220",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 10,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 12h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 1,00€ / NON FFBC : 2,50€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 5,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 12h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 1,00€ / NON FFBC : 2,50€"
+        }
+      ],
+      "remarque": "BAD: GPX \nParcours 30,60 et 92 km: fléchés",
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10630",
+      "nom": "FEXHE-MONTENAKEN-LANDEN-FEXHE",
+      "date": "2027-08-01",
+      "province": "Liège",
+      "code_postal": "4347",
+      "localite": "FEXHE-LE-HAUT-CLOCHER",
+      "texte_calendrier": "Voir plus + Voir moins - FEXHE-MONTENAKEN-LANDEN-FEXHE Dimanche 01 Août 2027 Liège - 4347 FEXHE-LE-HAUT-CLOCHER",
+      "lieu_depart": "Local : CTG Fexhe a.s.b.l.",
+      "adresse": "7 Rue de Freloux 4347 FEXHE-LE-HAUT-CLOCHER",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=7 Rue de Freloux 4347 FEXHE-LE-HAUT-CLOCHER",
+      "club": "9917 - CTG Fexhe a.s.b.l.",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 75,
+          "denivele": "D+ : 538",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "EASY",
+          "distance_km": 58,
+          "denivele": "D+ : 397",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        }
+      ],
+      "remarque": "La nouvelle rando pour toutes et tous.\nRoutes agréables.\nAccès: E40 sortie 30 - E42 sortie5",
+      "liens_externes": [
+        {
+          "libelle": "www.ctg-fexhe.be",
+          "url": "http://www.ctg-fexhe.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10323",
+      "nom": "DRAGONNETTE",
+      "date": "2027-08-04",
+      "province": "Hainaut",
+      "code_postal": "7000",
+      "localite": "MONS",
+      "texte_calendrier": "Voir plus + Voir moins - DRAGONNETTE Mercredi 04 Août 2027 Hainaut - 7000 MONS",
+      "lieu_depart": "Ascalon Hockey Club House",
+      "adresse": "3 Rive droite du canal du Centre 7000 MONS",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=3 Rive droite du canal du Centre 7000 MONS",
+      "club": "8504 - LES DRAGONS AUDAX MONS",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "18h15 - 18h15",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Groupes d'allure\nDépart 18h15 précise",
+      "liens_externes": [
+        {
+          "libelle": "www.damons.be",
+          "url": "http://www.damons.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10372",
+      "nom": "Sortie du Jeudi n° 29",
+      "date": "2027-08-05",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n° 29 Jeudi 05 Août 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 65,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10770",
+      "nom": "VTT Nocturne",
+      "date": "2027-08-06",
+      "province": "Hainaut",
+      "code_postal": "7911",
+      "localite": "HERQUEGIES",
+      "texte_calendrier": "Voir plus + Voir moins - VTT Nocturne Vendredi 06 Août 2027 Hainaut - 7911 HERQUEGIES",
+      "lieu_depart": "VTT nocturne",
+      "adresse": "x Rue Haut Doux 7911 HERQUEGIES",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Rue Haut Doux 7911 HERQUEGIES",
+      "club": "2303 - VTT Club des Collines",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "18h30 - 21h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 25,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "18h30 - 21h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        }
+      ],
+      "remarque": "Ravito - Bike-Wash - Bar- \nPetite restauration - soirée sous \nchapiteau",
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10149",
+      "nom": "LA PITTORESQUE",
+      "date": "2027-08-07",
+      "province": "Namur",
+      "code_postal": "5590",
+      "localite": "Achêne Brevet à Dénivelé Brevet Cyclo-côteur belge RANDOCOL",
+      "texte_calendrier": "Voir plus + Voir moins - LA PITTORESQUE Samedi 07 Août 2027 Namur - 5590 Achêne Brevet à Dénivelé Brevet Cyclo-côteur belge RANDOCOL",
+      "lieu_depart": "FC Achêne",
+      "adresse": "0 rue du cercle de tir 5590 Achêne",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=0 rue du cercle de tir 5590 Achêne",
+      "club": "3213 - CVC CINEY",
+      "parcours": [
+        {
+          "type": "BCCB",
+          "distance_km": 196,
+          "denivele": "D+ : 2838",
+          "difficulte": null,
+          "horaires": "07h00 - 09h00",
+          "ravitaillement": "4",
+          "tarif": "FFBC : 7,00€ / NON FFBC : 8,50€"
+        },
+        {
+          "type": "BCCB",
+          "distance_km": 154,
+          "denivele": "D+ : 2155",
+          "difficulte": null,
+          "horaires": "07h00 - 09h30",
+          "ravitaillement": "3",
+          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
+        },
+        {
+          "type": "BAD",
+          "distance_km": 103,
+          "denivele": "D+ : 1398",
+          "difficulte": null,
+          "horaires": "07h00 - 09h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "BAD",
+          "distance_km": 81,
+          "denivele": "D+ : 1052",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 45,
+          "denivele": "D+ : 487",
+          "difficulte": null,
+          "horaires": "07h00 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique, Préinscription\nvestiaires, douches.\nTrace au sol, GPX, Feuille de route",
+      "liens_externes": [
+        {
+          "libelle": "www.cyclos-emptinnois.com",
+          "url": "http://www.cyclos-emptinnois.com"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10217",
+      "nom": "Le Plateau de Herve 11 ème édition",
+      "date": "2027-08-07",
+      "province": "Liège",
+      "code_postal": "4050",
+      "localite": "Chaudfontaine Brevet à Dénivelé",
+      "texte_calendrier": "Voir plus + Voir moins - Le Plateau de Herve 11 ème édition Samedi 07 Août 2027 Liège - 4050 Chaudfontaine Brevet à Dénivelé",
+      "lieu_depart": "Stade Chaudfontaine Rugby Club",
+      "adresse": "12  Avenue de La Rochette 4050 Chaudfontaine",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=12  Avenue de La Rochette 4050 Chaudfontaine",
+      "club": "1604 - Cyclo-Club Beaufays",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 114,
+          "denivele": "D+ : 1486",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
+        },
+        {
+          "type": "BAD",
+          "distance_km": 87,
+          "denivele": "D+ : 950",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 63,
+          "denivele": "D+ : 750",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 40,
+          "denivele": "D+ : 435",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Pré inscription du 2/8 au 6/8 12h  GPX\nParcours balisés au sol , vestiaires, douches\nRandonnée classique 7/8 semi perm jusq 13/8",
+      "liens_externes": [
+        {
+          "libelle": "cycloclub.wixsite.com/beaufays",
+          "url": "http://cycloclub.wixsite.com/beaufays"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10657",
+      "nom": "La GRAMMONTOISE",
+      "date": "2027-08-08",
+      "province": "Hainaut",
+      "code_postal": "7021",
+      "localite": "HAVRE Challenge Centre Hainaut",
+      "texte_calendrier": "Voir plus + Voir moins - La GRAMMONTOISE Dimanche 08 Août 2027 Hainaut - 7021 HAVRE Challenge Centre Hainaut",
+      "lieu_depart": "Tennis club Havré",
+      "adresse": "39 Rue du Moulin d'Havré 7021 HAVRE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=39 Rue du Moulin d'Havré 7021 HAVRE",
+      "club": "8551 - CYCLOTOURISME 80 HAVRE",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 130,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 09h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 4,50€ / NON FFBC : 6,00€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 90,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 09h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 80,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 09h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 70,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 07h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 09h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 1,50€ / NON FFBC : 3,00€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 40,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "FAMILY",
+          "distance_km": 30,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 09h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 0,50€ / NON FFBC : 2,00€"
+        }
+      ],
+      "remarque": "4 parcours velos et 2 parcours gravel\ndépart école st Joseph, rue moulin d Havré 39\n7021 Havré ( près du tennis)",
+      "liens_externes": [
+        {
+          "libelle": "philippe180863@hotmail.com",
+          "url": "http://philippe180863@hotmail.com"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10818",
+      "nom": "Rand'Ohey",
+      "date": "2027-08-08",
+      "province": "Namur",
+      "code_postal": "5350",
+      "localite": "Ohey",
+      "texte_calendrier": "Voir plus + Voir moins - Rand'Ohey Dimanche 08 Août 2027 Namur - 5350 Ohey",
+      "lieu_depart": "Cyclo Ohey",
+      "adresse": "115 rue de Reppe  5350 Ohey",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=115 rue de Reppe  5350 Ohey",
+      "club": "2603 - CYCL'OHEY",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 120,
+          "denivele": "D+ : 1450",
+          "difficulte": null,
+          "horaires": "08h00 - 09h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "BAD",
+          "distance_km": 90,
+          "denivele": "D+ : 1000",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 60,
+          "denivele": "D+ : 650",
+          "difficulte": null,
+          "horaires": "08h00 - 12h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 45,
+          "denivele": "D+ : 500",
+          "difficulte": null,
+          "horaires": "08h00 - 12h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique Accueil sur place\nFeuille de route Fléchage au sol sauf 120 \nGPX",
+      "liens_externes": [
+        {
+          "libelle": "https://www.cyclohey.be",
+          "url": "http://https://www.cyclohey.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10376",
+      "nom": "Sortie du Mardi n° 9",
+      "date": "2027-08-10",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "Hautrage",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Mardi n° 9 Mardi 10 Août 2027 Hainaut - 7334 Hautrage",
+      "lieu_depart": "La Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 Hautrage",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 Hautrage",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 120,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h30 - 08h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 0,50€ / NON FFBC : 2,00€"
+        }
+      ],
+      "remarque": "Randonnée du mardi\nDépart groupé à 08h30\nPour lieu de départ contacter Yves Flament",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10324",
+      "nom": "DRAGONNETTE",
+      "date": "2027-08-11",
+      "province": "Hainaut",
+      "code_postal": "7000",
+      "localite": "MONS",
+      "texte_calendrier": "Voir plus + Voir moins - DRAGONNETTE Mercredi 11 Août 2027 Hainaut - 7000 MONS",
+      "lieu_depart": "Ascalon Hockey Club House",
+      "adresse": "3 Rive droite du canal du Centre 7000 MONS",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=3 Rive droite du canal du Centre 7000 MONS",
+      "club": "8504 - LES DRAGONS AUDAX MONS",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "18h15 - 18h15",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Groupes d'allure\nDépart 18h15 précise",
+      "liens_externes": [
+        {
+          "libelle": "www.damons.be",
+          "url": "http://www.damons.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10373",
+      "nom": "Sortie du Jeudi n° 30",
+      "date": "2027-08-12",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n° 30 Jeudi 12 Août 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 65,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10806",
+      "nom": "Social Ride - sortie club 9",
+      "date": "2027-08-12",
+      "province": "Hainaut",
+      "code_postal": "7530",
+      "localite": "Gaurain-Ramecroix",
+      "texte_calendrier": "Voir plus + Voir moins - Social Ride - sortie club 9 Jeudi 12 Août 2027 Hainaut - 7530 Gaurain-Ramecroix",
+      "lieu_depart": "Café La Rocaille",
+      "adresse": "4 Rue Louvière 7530 Gaurain-Ramecroix",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=4 Rue Louvière 7530 Gaurain-Ramecroix",
+      "club": "8717 - ROYAL CT GAURAIN-RAMECROIX",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 60,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h00 - 13h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Départ groupé à 13h00\nParcours GPS sur http://www.ctgaurain.be/",
+      "liens_externes": [
+        {
+          "libelle": "http://ctgaurain.be",
+          "url": "http://http://ctgaurain.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10248",
+      "nom": "11ème Nocturne de Blandain",
+      "date": "2027-08-13",
+      "province": "Hainaut",
+      "code_postal": "7522",
+      "localite": "BLANDAIN",
+      "texte_calendrier": "Voir plus + Voir moins - 11ème Nocturne de Blandain Vendredi 13 Août 2027 Hainaut - 7522 BLANDAIN",
+      "lieu_depart": "Home Don-Bosco",
+      "adresse": "3 Hameau du Touquet  7522 BLANDAIN",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=3 Hameau du Touquet  7522 BLANDAIN",
+      "club": "1157 - VTT BCJ Blandain",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 45,
+          "denivele": "D+ : 350",
+          "difficulte": "Moyen",
+          "horaires": "18h00 - 22h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 30,
+          "denivele": "D+ : 100",
+          "difficulte": "Moyen",
+          "horaires": "18h00 - 22h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 20,
+          "denivele": "D+ : 70",
+          "difficulte": "Facile",
+          "horaires": "18h00 - 22h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 10,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "18h00 - 22h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 5,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "18h00 - 22h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Rando nocturne dans la \ncampagne Tournaisienne.\nRavito, bike-wash, douches, BBQ",
+      "liens_externes": [
+        {
+          "libelle": "www.facebook.com/bcj.blandain",
+          "url": "http://www.facebook.com/bcj.blandain"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10625",
+      "nom": "L'Inattendue",
+      "date": "2027-08-14",
+      "province": "Namur",
+      "code_postal": "5360",
+      "localite": "Natoye - Hamois Brevet à Dénivelé Brevet Cyclo-côteur belge",
+      "texte_calendrier": "Voir plus + Voir moins - L'Inattendue Samedi 14 Août 2027 Namur - 5360 Natoye - Hamois Brevet à Dénivelé Brevet Cyclo-côteur belge",
+      "lieu_depart": "Centre Sportif de Natoye",
+      "adresse": "31 Rue du Château d'eau 5360 Natoye - Hamois",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=31 Rue du Château d'eau 5360 Natoye - Hamois",
+      "club": "2311 - Les Cycl'Amis",
+      "parcours": [
+        {
+          "type": "BCCB",
+          "distance_km": 200,
+          "denivele": "D+ : 3125",
+          "difficulte": null,
+          "horaires": "07h00 - 09h00",
+          "ravitaillement": "4",
+          "tarif": "FFBC : 7,50€ / NON FFBC : 9,00€"
+        },
+        {
+          "type": "BCCB",
+          "distance_km": 182,
+          "denivele": "D+ : 2630",
+          "difficulte": null,
+          "horaires": "07h00 - 09h00",
+          "ravitaillement": "4",
+          "tarif": "FFBC : 7,00€ / NON FFBC : 8,50€"
+        },
+        {
+          "type": "BCCB",
+          "distance_km": 154,
+          "denivele": "D+ : 2120",
+          "difficulte": null,
+          "horaires": "07h00 - 09h30",
+          "ravitaillement": "3",
+          "tarif": "FFBC : 7,00€ / NON FFBC : 8,50€"
+        },
+        {
+          "type": "BAD",
+          "distance_km": 118,
+          "denivele": "D+ : 1460",
+          "difficulte": null,
+          "horaires": "07h00 - 09h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "BAD",
+          "distance_km": 93,
+          "denivele": "D+ : 1030",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 75,
+          "denivele": "D+ : 830",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 44,
+          "denivele": "D+ : 490",
+          "difficulte": null,
+          "horaires": "07h00 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique - Semi Permanente - Préinscription\nFléchage au sol - GPX - Feuille de route ...\nAccueil - Parking - Douche - Bar - Hamburgers",
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10157",
+      "nom": "25ème Rando VTT du BCJ",
+      "date": "2027-08-15",
+      "province": "Hainaut",
+      "code_postal": "7522",
+      "localite": "BLANDAIN",
+      "texte_calendrier": "Voir plus + Voir moins - 25ème Rando VTT du BCJ Dimanche 15 Août 2027 Hainaut - 7522 BLANDAIN",
+      "lieu_depart": "Home Don-Bosco",
+      "adresse": "3 Hameau du Touquet  7522 BLANDAIN",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=3 Hameau du Touquet  7522 BLANDAIN",
+      "club": "1157 - VTT BCJ Blandain",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 90,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "3",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 70,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 60,
+          "denivele": "D+ : N.A",
+          "difficulte": "Très Difficile",
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "3",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": "Moyen",
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 30,
+          "denivele": "D+ : N.A",
+          "difficulte": "Moyen",
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 20,
+          "denivele": "D+ : N.A",
+          "difficulte": "Facile",
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 15,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h00 - 12h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 10,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h00 - 12h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 5,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h00 - 12h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Rando spéciale Mt St Aubert \n+-600m de d+ Ravito, bike-wash, douches, BBQ\nwww.randobcj.com",
+      "liens_externes": [
+        {
+          "libelle": "www.facebook.com/bcj.blandain",
+          "url": "http://www.facebook.com/bcj.blandain"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10171",
+      "nom": "La Jardinière",
+      "date": "2027-08-15",
+      "province": "Hainaut",
+      "code_postal": "7530",
+      "localite": "Gaurain-Ramecroix",
+      "texte_calendrier": "Voir plus + Voir moins - La Jardinière Dimanche 15 Août 2027 Hainaut - 7530 Gaurain-Ramecroix",
+      "lieu_depart": "Café La Rocaille",
+      "adresse": "4 Rue Louvière 7530 Gaurain-Ramecroix",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=4 Rue Louvière 7530 Gaurain-Ramecroix",
+      "club": "8717 - ROYAL CT GAURAIN-RAMECROIX",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 80,
+          "denivele": "D+ : 339",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 60,
+          "denivele": "D+ : 283",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 40,
+          "denivele": "D+ : 218",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Ravito soigné et copieux\nFeuille de route et liens GPS",
+      "liens_externes": [
+        {
+          "libelle": "http://ctgaurain.be",
+          "url": "http://http://ctgaurain.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10428",
+      "nom": "Rallye de la Ducasse",
+      "date": "2027-08-15",
+      "province": "Hainaut",
+      "code_postal": "7040",
+      "localite": "BLAREGNIES",
+      "texte_calendrier": "Voir plus + Voir moins - Rallye de la Ducasse Dimanche 15 Août 2027 Hainaut - 7040 BLAREGNIES",
+      "lieu_depart": "PLACE",
+      "adresse": "1 Place de Blaregnies 7040 BLAREGNIES",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Place de Blaregnies 7040 BLAREGNIES",
+      "club": "9536 - CLUB CYCLO QUEVY A.S.B.L.",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 90,
+          "denivele": "D+ : 742",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 60,
+          "denivele": "D+ : 592",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "EASY",
+          "distance_km": 30,
+          "denivele": "D+ : 100",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,00€ / NON FFBC : 3,50€"
+        }
+      ],
+      "remarque": "chapiteau place de Blaregnies",
+      "liens_externes": [
+        {
+          "libelle": "users.skynet.be/cyclosquevy/",
+          "url": "http://users.skynet.be/cyclosquevy/"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10457",
+      "nom": "A travers le Brabant",
+      "date": "2027-08-15",
+      "province": "Brabant Wallon",
+      "code_postal": "1490",
+      "localite": "Court-Saint-Etienne Brevet à Dénivelé",
+      "texte_calendrier": "Voir plus + Voir moins - A travers le Brabant Dimanche 15 Août 2027 Brabant Wallon - 1490 Court-Saint-Etienne Brevet à Dénivelé",
+      "lieu_depart": "Centre sportif de Court-Saint-Etienne",
+      "adresse": "1A Avenue de Wisterzée 1490 Court-Saint-Etienne",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1A Avenue de Wisterzée 1490 Court-Saint-Etienne",
+      "club": "3707 - Guidons Courtois",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 110,
+          "denivele": "D+ : 1100",
+          "difficulte": null,
+          "horaires": "07h30 - 09h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "BAD",
+          "distance_km": 90,
+          "denivele": "D+ : 950",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 70,
+          "denivele": "D+ : 600",
+          "difficulte": null,
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "EASY",
+          "distance_km": 50,
+          "denivele": "D+ : 400",
+          "difficulte": null,
+          "horaires": "07h30 - 11h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Pains saucisses, boissons et douches\nParking facile\nGPX disponibles sur notre site dès le 13/08",
+      "liens_externes": [
+        {
+          "libelle": "www.guidons-courtois.be",
+          "url": "http://www.guidons-courtois.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10325",
+      "nom": "DRAGONNETTE",
+      "date": "2027-08-18",
+      "province": "Hainaut",
+      "code_postal": "7000",
+      "localite": "MONS",
+      "texte_calendrier": "Voir plus + Voir moins - DRAGONNETTE Mercredi 18 Août 2027 Hainaut - 7000 MONS",
+      "lieu_depart": "Ascalon Hockey Club House",
+      "adresse": "3 Rive droite du canal du Centre 7000 MONS",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=3 Rive droite du canal du Centre 7000 MONS",
+      "club": "8504 - LES DRAGONS AUDAX MONS",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "18h15 - 18h15",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Groupes d'allure\nDépart 18h15 précise",
+      "liens_externes": [
+        {
+          "libelle": "www.damons.be",
+          "url": "http://www.damons.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10481",
+      "nom": "Challenge du Pont J'en Bois",
+      "date": "2027-08-18",
+      "province": "Namur",
+      "code_postal": "5100",
+      "localite": "JAMBES",
+      "texte_calendrier": "Voir plus + Voir moins - Challenge du Pont J'en Bois Mercredi 18 Août 2027 Namur - 5100 JAMBES",
+      "lieu_depart": "Café du Pont J'en Bois",
+      "adresse": "10 Avenue du Bourgmestre Jean Materne  5100 JAMBES",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=10 Avenue du Bourgmestre Jean Materne  5100 JAMBES",
+      "club": "3212 - SPEEDY CLUB NAMUR",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 60,
+          "denivele": "D+ : 650",
+          "difficulte": null,
+          "horaires": "10h00 - 13h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 20,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "10h00 - 13h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique - Accueil\nNouveaux parcours\nTrace au sol - GPX - Feuille de route",
+      "liens_externes": [
+        {
+          "libelle": "www.speedyclubnamur.net",
+          "url": "http://www.speedyclubnamur.net"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10374",
+      "nom": "Sortie du Jeudi n° 31",
+      "date": "2027-08-19",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n° 31 Jeudi 19 Août 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 65,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10048",
+      "nom": "Maroilles",
+      "date": "2027-08-21",
+      "province": "Hainaut",
+      "code_postal": "7520",
+      "localite": "Templeuve Brevet Randonneurs Belges",
+      "texte_calendrier": "Voir plus + Voir moins - Maroilles Samedi 21 Août 2027 Hainaut - 7520 Templeuve Brevet Randonneurs Belges",
+      "lieu_depart": "Brasserie Cazeau",
+      "adresse": "67 rue de Cazeau 7520 Templeuve",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=67 rue de Cazeau 7520 Templeuve",
+      "club": "8534 - Roue Princière d'Allain",
+      "parcours": [
+        {
+          "type": "BRB",
+          "distance_km": 200,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h15 - 08h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 150,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 4,50€ / NON FFBC : 6,00€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 80,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "EASY",
+          "distance_km": 40,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Départ Social Ride 8h30 pour 40, 80 et 150\nDépart groupé du 200 km : 7h30",
+      "liens_externes": [
+        {
+          "libelle": "www.laroueprinciere.be",
+          "url": "http://www.laroueprinciere.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10167",
+      "nom": "Randonnée des Moissons",
+      "date": "2027-08-21",
+      "province": "Namur",
+      "code_postal": "5080",
+      "localite": "Emines",
+      "texte_calendrier": "Voir plus + Voir moins - Randonnée des Moissons Samedi 21 Août 2027 Namur - 5080 Emines",
+      "lieu_depart": "Centre sportif La bruyère",
+      "adresse": "33 Rue de Rhisnes 5080 Emines",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=33 Rue de Rhisnes 5080 Emines",
+      "club": "3510 - MEUX CYCLO LA BRUYERE",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 100,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 60,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 40,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique - Accueil - Parking\npas de gobelet au ravito\nTrace au sol - GPX - Feuille de route",
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10170",
+      "nom": "Ourthe et Aisne",
+      "date": "2027-08-21",
+      "province": "Liège",
+      "code_postal": "4460",
+      "localite": "Grâce-Hollogne Brevet à Dénivelé",
+      "texte_calendrier": "Voir plus + Voir moins - Ourthe et Aisne Samedi 21 Août 2027 Liège - 4460 Grâce-Hollogne Brevet à Dénivelé",
+      "lieu_depart": "Hall Omnisports de Grâce-Hollogne",
+      "adresse": "88 Rue des XVIII Bonniers 4460 Grâce-Hollogne",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=88 Rue des XVIII Bonniers 4460 Grâce-Hollogne",
+      "club": "1500 - CCT GRACE-HOLLOGNE",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 145,
+          "denivele": "D+ : 1560",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "BAD",
+          "distance_km": 125,
+          "denivele": "D+ : 1445",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "BAD",
+          "distance_km": 95,
+          "denivele": "D+ : 1099",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 65,
+          "denivele": "D+ : 668",
+          "difficulte": null,
+          "horaires": "08h00 - 09h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "G-H autoroute E42 sortie 3 - Hall Omnisports \n65+95 kms fléchés. 125+145 kms GPX seulement.\nPré-inscriptions possibles. Cfr site internet",
+      "liens_externes": [
+        {
+          "libelle": "www.cctgh.be",
+          "url": "http://www.cctgh.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10333",
+      "nom": "2ème Souvenir Bernard Rasch",
+      "date": "2027-08-21",
+      "province": "Luxembourg",
+      "code_postal": "6780",
+      "localite": "MESSANCY",
+      "texte_calendrier": "Voir plus + Voir moins - 2ème Souvenir Bernard Rasch Samedi 21 Août 2027 Luxembourg - 6780 MESSANCY",
+      "lieu_depart": "Villa Clainge",
+      "adresse": "4 Rue de la Clinique 6780 MESSANCY",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=4 Rue de la Clinique 6780 MESSANCY",
+      "club": "1705 -  MESSANCY Cyclo-Club asbl",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 102,
+          "denivele": "D+ : 980",
+          "difficulte": null,
+          "horaires": "12h30 - 13h30",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 84,
+          "denivele": "D+ : 850",
+          "difficulte": null,
+          "horaires": "12h30 - 14h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 61,
+          "denivele": "D+ : 700",
+          "difficulte": null,
+          "horaires": "12h30 - 14h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 44,
+          "denivele": "D+ : 400",
+          "difficulte": null,
+          "horaires": "12h30 - 14h00",
+          "ravitaillement": "1",
+          "tarif": null
+        }
+      ],
+      "remarque": "Parcours au Grand Duché du Luxembourg\nParcours 44km et 6&km fléchés\nParcours 102 km et 84 km : sur GPX seulement",
+      "liens_externes": [
+        {
+          "libelle": "www.cycloclubmessancy.wordpress.com/",
+          "url": "http://www.cycloclubmessancy.wordpress.com/"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10621",
+      "nom": "Le Tournay Gravel Tour",
+      "date": "2027-08-21",
+      "province": "Hainaut",
+      "code_postal": "7520",
+      "localite": "Templeuve GRAVEL",
+      "texte_calendrier": "Voir plus + Voir moins - Le Tournay Gravel Tour Samedi 21 Août 2027 Hainaut - 7520 Templeuve GRAVEL",
+      "lieu_depart": "Brasserie Cazeau",
+      "adresse": "67 rue de Cazeau 7520 Templeuve",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=67 rue de Cazeau 7520 Templeuve",
+      "club": "8534 - Roue Princière d'Allain",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 130,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 95,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "GPX only\nDépart Social Ride : 8h30",
+      "liens_externes": [
+        {
+          "libelle": "www.laroueprinciere.be",
+          "url": "http://www.laroueprinciere.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10692",
+      "nom": "Patagaumia Gravel",
+      "date": "2027-08-21",
+      "province": "Luxembourg",
+      "code_postal": "6810",
+      "localite": "JAMOIGNE",
+      "texte_calendrier": "Voir plus + Voir moins - Patagaumia Gravel Samedi 21 Août 2027 Luxembourg - 6810 JAMOIGNE",
+      "lieu_depart": "Château du Faing",
+      "adresse": "10 Rue du Faing 6810 JAMOIGNE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=10 Rue du Faing 6810 JAMOIGNE",
+      "club": "3511 - Royal Vélo-Sport Jamoigne asbl",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 120,
+          "denivele": "D+ : 1300",
+          "difficulte": null,
+          "horaires": "08h00 - 09h00",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 80,
+          "denivele": "D+ : 1000",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 60,
+          "denivele": "D+ : 950",
+          "difficulte": null,
+          "horaires": "09h30 - 13h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 45,
+          "denivele": "D+ : 430",
+          "difficulte": null,
+          "horaires": "09h30 - 13h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 28,
+          "denivele": "D+ : 360",
+          "difficulte": null,
+          "horaires": "09h30 - 14h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Bike wash/Douches\nAnimation musicale à l'arrivée\nPetite restauration",
+      "liens_externes": [
+        {
+          "libelle": "www.vsjamoigne.be",
+          "url": "http://www.vsjamoigne.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10155",
+      "nom": "La Rando du Souvenir + Gravel AL",
+      "date": "2027-08-22",
+      "province": "Namur",
+      "code_postal": "5340",
+      "localite": "FAULX-LES-TOMBES",
+      "texte_calendrier": "Voir plus + Voir moins - La Rando du Souvenir + Gravel AL Dimanche 22 Août 2027 Namur - 5340 FAULX-LES-TOMBES",
+      "lieu_depart": "LOCAL FACE EGLISE",
+      "adresse": "RUE DE L EGLISE 5340 FAULX-LES-TOMBES",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query= RUE DE L EGLISE 5340 FAULX-LES-TOMBES",
+      "club": "3701 - Team Faulx-Namur",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 75,
+          "denivele": "D+ : 720",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 53,
+          "denivele": "D+ : 650",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 48,
+          "denivele": "D+ : 480",
+          "difficulte": null,
+          "horaires": "08h00 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        }
+      ],
+      "remarque": "Philanthropique pour le Château Vert\nClassique - Pré-inscription - Vaste parking\nRoute:Trace au sol-GPX / Gravel: GPX uniquem.",
+      "liens_externes": [
+        {
+          "libelle": "www.rtfn.be",
+          "url": "http://www.rtfn.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10156",
+      "nom": "Souvenir Albert Vandekerkove",
+      "date": "2027-08-22",
+      "province": "Hainaut",
+      "code_postal": "7730",
+      "localite": "Estaimbourg",
+      "texte_calendrier": "Voir plus + Voir moins - Souvenir Albert Vandekerkove Dimanche 22 Août 2027 Hainaut - 7730 Estaimbourg",
+      "lieu_depart": "Domaine de Bourgogne- Complexe sportif",
+      "adresse": "1 Place de Bourgogne 7730 Estaimbourg",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Place de Bourgogne 7730 Estaimbourg",
+      "club": "9004 - CC ESTAIMBOURG",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 90,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 65,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Inscriptions 4,50 € - affiliés 3 €\nravito sur les 3 parcours",
+      "liens_externes": [
+        {
+          "libelle": "www.ccestaimbourg.be",
+          "url": "http://www.ccestaimbourg.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10548",
+      "nom": "Randonnée de l'Entente",
+      "date": "2027-08-22",
+      "province": "Hainaut",
+      "code_postal": "6150",
+      "localite": "Anderlues Challenge Centre Hainaut",
+      "texte_calendrier": "Voir plus + Voir moins - Randonnée de l'Entente Dimanche 22 Août 2027 Hainaut - 6150 Anderlues Challenge Centre Hainaut",
+      "lieu_depart": "Maison des Sports Anderlues",
+      "adresse": "34 Rue Lacherez  6150 Anderlues",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=34 Rue Lacherez  6150 Anderlues",
+      "club": "1401 -  Cycling Team LRY ANDERLUES",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 130,
+          "denivele": "D+ : 843",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 120,
+          "denivele": "D+ : 755",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 105,
+          "denivele": "D+ : 662",
+          "difficulte": null,
+          "horaires": "07h30 - 09h30",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 85,
+          "denivele": "D+ : 565",
+          "difficulte": null,
+          "horaires": "07h30 - 09h30",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 80,
+          "denivele": "D+ : 476",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 65,
+          "denivele": "D+ : 461",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 55,
+          "denivele": "D+ : 361",
+          "difficulte": null,
+          "horaires": "07h30 - 09h30",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 40,
+          "denivele": "D+ : 331",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 25,
+          "denivele": "D+ : 213",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 21,
+          "denivele": "D+ : 154",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 18,
+          "denivele": "D+ : 134",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 13,
+          "denivele": "D+ : 98",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 8,
+          "denivele": "D+ : 53",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée campagnarde, fléchage optimum \n + marche nature - gravel: uniquement par \ntrace GPX - 30: ravito au départ",
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10714",
+      "nom": "Rando cyclo fête locale",
+      "date": "2027-08-22",
+      "province": "Luxembourg",
+      "code_postal": "6769",
+      "localite": "Meix-dvt-Virton",
+      "texte_calendrier": "Voir plus + Voir moins - Rando cyclo fête locale Dimanche 22 Août 2027 Luxembourg - 6769 Meix-dvt-Virton",
+      "lieu_depart": "Place Communale - sous châpiteau",
+      "adresse": "- rue Eaubruchet 6769 Meix-dvt-Virton",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- rue Eaubruchet 6769 Meix-dvt-Virton",
+      "club": "8920 - Meix-Dt-Virton Cercle Musical",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 112,
+          "denivele": "D+ : 1400",
+          "difficulte": null,
+          "horaires": "07h00 - 09h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 70,
+          "denivele": "D+ : 870",
+          "difficulte": null,
+          "horaires": "07h00 - 10h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 55,
+          "denivele": "D+ : 560",
+          "difficulte": null,
+          "horaires": "07h00 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 33,
+          "denivele": "D+ : 390",
+          "difficulte": null,
+          "horaires": "07h00 - 10h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "gratuit pour moins de 16 ans",
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10377",
+      "nom": "Sortie du Mardi n° 10",
+      "date": "2027-08-24",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "Hautrage",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Mardi n° 10 Mardi 24 Août 2027 Hainaut - 7334 Hautrage",
+      "lieu_depart": "La Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 Hautrage",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 Hautrage",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 120,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h30 - 08h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 0,50€ / NON FFBC : 2,00€"
+        }
+      ],
+      "remarque": "Randonnée du mardi\nDépart groupé à 08h30\nPour lieu de départ contacter Yves Flament",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10326",
+      "nom": "DRAGONNETTE",
+      "date": "2027-08-25",
+      "province": "Hainaut",
+      "code_postal": "7000",
+      "localite": "MONS",
+      "texte_calendrier": "Voir plus + Voir moins - DRAGONNETTE Mercredi 25 Août 2027 Hainaut - 7000 MONS",
+      "lieu_depart": "Ascalon Hockey Club House",
+      "adresse": "3 Rive droite du canal du Centre 7000 MONS",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=3 Rive droite du canal du Centre 7000 MONS",
+      "club": "8504 - LES DRAGONS AUDAX MONS",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "18h15 - 18h15",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Groupes d'allure\nDépart 18h15 précise",
+      "liens_externes": [
+        {
+          "libelle": "www.damons.be",
+          "url": "http://www.damons.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10375",
+      "nom": "Sortie du Jeudi n° 32",
+      "date": "2027-08-26",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n° 32 Jeudi 26 Août 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 65,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10807",
+      "nom": "Social Ride - sortie club 10",
+      "date": "2027-08-26",
+      "province": "Hainaut",
+      "code_postal": "7530",
+      "localite": "Gaurain-Ramecroix",
+      "texte_calendrier": "Voir plus + Voir moins - Social Ride - sortie club 10 Jeudi 26 Août 2027 Hainaut - 7530 Gaurain-Ramecroix",
+      "lieu_depart": "Café La Rocaille",
+      "adresse": "4 Rue Louvière 7530 Gaurain-Ramecroix",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=4 Rue Louvière 7530 Gaurain-Ramecroix",
+      "club": "8717 - ROYAL CT GAURAIN-RAMECROIX",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h00 - 13h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Départ groupé à 13h00\nParcours GPS sur http://www.ctgaurain.be/",
+      "liens_externes": [
+        {
+          "libelle": "http://ctgaurain.be",
+          "url": "http://http://ctgaurain.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10224",
+      "nom": "Nocturne VTT des Baudets",
+      "date": "2027-08-27",
+      "province": "Luxembourg",
+      "code_postal": "6880",
+      "localite": "BERTRIX",
+      "texte_calendrier": "Voir plus + Voir moins - Nocturne VTT des Baudets Vendredi 27 Août 2027 Luxembourg - 6880 BERTRIX",
+      "lieu_depart": "Complexe sportif",
+      "adresse": "44 Rue du Culot 6880 BERTRIX",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Rue du Culot 6880 BERTRIX",
+      "club": "1514 - BERTRIX Baudet Bike asbl",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 35,
+          "denivele": "D+ : 600",
+          "difficulte": "Moyen",
+          "horaires": "18h00 - 21h00",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 28,
+          "denivele": "D+ : 350",
+          "difficulte": "Facile",
+          "horaires": "18h00 - 21h00",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 20,
+          "denivele": "D+ : 275",
+          "difficulte": "Facile",
+          "horaires": "18h00 - 21h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 12,
+          "denivele": "D+ : 250",
+          "difficulte": "Facile",
+          "horaires": "18h00 - 21h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 6,
+          "denivele": "D+ : 150",
+          "difficulte": "Facile",
+          "horaires": "18h00 - 21h00",
+          "ravitaillement": "1",
+          "tarif": null
+        }
+      ],
+      "remarque": null,
+      "liens_externes": [
+        {
+          "libelle": "www.randodesbaudets.be",
+          "url": "http://www.randodesbaudets.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10152",
+      "nom": "Souvenir A. Delvingt -  Nocturne",
+      "date": "2027-08-28",
+      "province": "Hainaut",
+      "code_postal": "7860",
+      "localite": "Lessines",
+      "texte_calendrier": "Voir plus + Voir moins - Souvenir A. Delvingt -  Nocturne Samedi 28 Août 2027 Hainaut - 7860 Lessines",
+      "lieu_depart": "Ancienne caserne des Pompiers",
+      "adresse": "54 rue des Quatre Fils Aymon 7860 Lessines",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=54 rue des Quatre Fils Aymon 7860 Lessines",
+      "club": "9428 - CYCLO CLUB ST-ROCH LESSINES",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": "Facile",
+          "horaires": "18h30 - 20h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": "Facile",
+          "horaires": "18h30 - 20h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        }
+      ],
+      "remarque": "Bike wash, bar et restauration\n\nRéduction 1.5 pour membres FFBC",
+      "liens_externes": [
+        {
+          "libelle": "https://www.cycloclubsaintroch.be",
+          "url": "http://https://www.cycloclubsaintroch.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10159",
+      "nom": "La Ronde Ardennaise",
+      "date": "2027-08-28",
+      "province": "Luxembourg",
+      "code_postal": "6840",
+      "localite": "NEUFCHATEAU Brevet à Dénivelé",
+      "texte_calendrier": "Voir plus + Voir moins - La Ronde Ardennaise Samedi 28 Août 2027 Luxembourg - 6840 NEUFCHATEAU Brevet à Dénivelé",
+      "lieu_depart": "Moulin Klepper",
+      "adresse": "12 rue du Moulin  6840 NEUFCHATEAU",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=12 rue du Moulin  6840 NEUFCHATEAU",
+      "club": "3601 - NEUFCHATEAU Cyclo-Club Chestrolais",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 125,
+          "denivele": "D+ : 1800",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
+        },
+        {
+          "type": "BAD",
+          "distance_km": 104,
+          "denivele": "D+ : 1300",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 65,
+          "denivele": "D+ : 736",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 48,
+          "denivele": "D+ : 659",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Superbe balade  entre Semois et Lesse\nfin ravito Cornimont 12h30 Maissin 15h\nRens: Facebook CC-Chestrolais",
+      "liens_externes": [
+        {
+          "libelle": "https://www.facebook.com/profile.php?id=100057604562858",
+          "url": "http://https://www.facebook.com/profile.php?id=100057604562858"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10232",
+      "nom": "Grand Prix de Wallonie",
+      "date": "2027-08-28",
+      "province": "Namur",
+      "code_postal": "5060",
+      "localite": "Velaine s/S Brevet à Dénivelé",
+      "texte_calendrier": "Voir plus + Voir moins - Grand Prix de Wallonie Samedi 28 Août 2027 Namur - 5060 Velaine s/S Brevet à Dénivelé",
+      "lieu_depart": "Salle Communale Michel Warnon",
+      "adresse": "49 Rue Hurlevent 5060 Velaine s/S",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=49 Rue Hurlevent 5060 Velaine s/S",
+      "club": "3406 - CYCLO SARTHE AUVELAIS",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 125,
+          "denivele": "D+ : 1816",
+          "difficulte": null,
+          "horaires": "07h00 - 09h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "BAD",
+          "distance_km": 95,
+          "denivele": "D+ : 1213",
+          "difficulte": null,
+          "horaires": "07h00 - 09h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 60,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique - Accueil marquage au sol \nRavito départ sur le 60 km - Trace 60 km\nFeuille de route - GPX 95 - 125 km",
+      "liens_externes": [
+        {
+          "libelle": "csauvelais.be",
+          "url": "http://csauvelais.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10398",
+      "nom": "La André Collin vers/le/Samson",
+      "date": "2027-08-28",
+      "province": "Liège",
+      "code_postal": "4431",
+      "localite": "ANS Brevet à Dénivelé",
+      "texte_calendrier": "Voir plus + Voir moins - La André Collin vers/le/Samson Samedi 28 Août 2027 Liège - 4431 ANS Brevet à Dénivelé",
+      "lieu_depart": "hall des sports H.Germis",
+      "adresse": "1 rue des Charrons 4431 ANS",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 rue des Charrons 4431 ANS",
+      "club": "1405 - ANS VELO CLUB",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 128,
+          "denivele": "D+ : 1290",
+          "difficulte": null,
+          "horaires": "08h00 - 09h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 98,
+          "denivele": "D+ : 700",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 57,
+          "denivele": "D+ : 402",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "inscription sur place + en ligne\n57 km collation au départ\n3 circuits fléchés au sol + gpx",
+      "liens_externes": [
+        {
+          "libelle": "www.facebook.com/cycloans",
+          "url": "http://www.facebook.com/cycloans"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10810",
+      "nom": "La Pascal De Luca - GEER et Meuse",
+      "date": "2027-08-28",
+      "province": "Liège",
+      "code_postal": "4690",
+      "localite": "BASSENGE",
+      "texte_calendrier": "Voir plus + Voir moins - La Pascal De Luca - GEER et Meuse Samedi 28 Août 2027 Liège - 4690 BASSENGE",
+      "lieu_depart": "Salle la Passerelle",
+      "adresse": "1 Chemin du Tram 4690 BASSENGE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Chemin du Tram 4690 BASSENGE",
+      "club": "9116 - CC GEER ET MEUSE",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 90,
+          "denivele": "D+ : 1120",
+          "difficulte": "Difficile",
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 70,
+          "denivele": "D+ : 830",
+          "difficulte": "Difficile",
+          "horaires": "07h30 - 09h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 50,
+          "denivele": "D+ : 550",
+          "difficulte": "Moyen",
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "FAMILY",
+          "distance_km": 33,
+          "denivele": "D+ : 175",
+          "difficulte": "Facile",
+          "horaires": "07h30 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,00€ / NON FFBC : 3,50€"
+        }
+      ],
+      "remarque": "Parcours Gravel uniquement GPX\nPréinscription souhaitée mais pas obligatoire\nParcours FAMILY fléché",
+      "liens_externes": [
+        {
+          "libelle": "www.ccgeermeuse.be",
+          "url": "http://www.ccgeermeuse.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9946",
+      "nom": "La Redoutable VTT",
+      "date": "2027-08-29",
+      "province": "Liège",
+      "code_postal": "4920",
+      "localite": "AYWAILLE",
+      "texte_calendrier": "Voir plus + Voir moins - La Redoutable VTT Dimanche 29 Août 2027 Liège - 4920  AYWAILLE",
+      "lieu_depart": "centre sportif d'Aywaille",
+      "adresse": "1 Esplanade du fair play 4920  AYWAILLE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Esplanade du fair play 4920  AYWAILLE",
+      "club": "8620 - La Redoute d Aywaille",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 70,
+          "denivele": "D+ : 1500",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "4",
+          "tarif": "FFBC : 6,50€ / NON FFBC : 8,00€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 55,
+          "denivele": "D+ : 1190",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "4",
+          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 45,
+          "denivele": "D+ : 1020",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 35,
+          "denivele": "D+ : 900",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 25,
+          "denivele": "D+ : 470",
+          "difficulte": null,
+          "horaires": "08h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 15,
+          "denivele": "D+ : 310",
+          "difficulte": null,
+          "horaires": "08h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        }
+      ],
+      "remarque": "Resto/Bikewash/Tel F/NL +3243686722\nVaste parking  Parking vélos gardé et gratuit\nNouveaux parcours-Bar et petite restauration",
+      "liens_externes": [
+        {
+          "libelle": "www.vclaredoute.be",
+          "url": "http://www.vclaredoute.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10150",
+      "nom": "Souvenir Albert Delvingt",
+      "date": "2027-08-29",
+      "province": "Hainaut",
+      "code_postal": "7860",
+      "localite": "Lessines",
+      "texte_calendrier": "Voir plus + Voir moins - Souvenir Albert Delvingt Dimanche 29 Août 2027 Hainaut - 7860 Lessines",
+      "lieu_depart": "Ancienne caserne des Pompiers",
+      "adresse": "54 rue des Quatre Fils Aymon 7860 Lessines",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=54 rue des Quatre Fils Aymon 7860 Lessines",
+      "club": "9428 - CYCLO CLUB ST-ROCH LESSINES",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 120,
+          "denivele": "D+ : N.A",
+          "difficulte": "Difficile",
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": "3",
+          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 100,
+          "denivele": "D+ : N.A",
+          "difficulte": "Moyen",
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 80,
+          "denivele": "D+ : N.A",
+          "difficulte": "Moyen",
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 75,
+          "denivele": "D+ : N.A",
+          "difficulte": "Moyen",
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": "Facile",
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 40,
+          "denivele": "D+ : N.A",
+          "difficulte": "Facile",
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 25,
+          "denivele": "D+ : N.A",
+          "difficulte": "Facile",
+          "horaires": "07h30 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 12,
+          "denivele": "D+ : N.A",
+          "difficulte": "Moyen",
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 0,50€ / NON FFBC : 2,00€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 7,
+          "denivele": "D+ : N.A",
+          "difficulte": "Facile",
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 0,50€ / NON FFBC : 2,00€"
+        }
+      ],
+      "remarque": "Circuits cyclos, gravel et marche\nParking, Bike wash, Bar et restauration\nRéduction membres FFBC",
+      "liens_externes": [
+        {
+          "libelle": "https://www.cycloclubsaintroch.be",
+          "url": "http://https://www.cycloclubsaintroch.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10160",
+      "nom": "Souvenir André Billon",
+      "date": "2027-08-29",
+      "province": "Hainaut",
+      "code_postal": "7522",
+      "localite": "MARQUAIN",
+      "texte_calendrier": "Voir plus + Voir moins - Souvenir André Billon Dimanche 29 Août 2027 Hainaut - 7522 MARQUAIN",
+      "lieu_depart": "Salle Luna",
+      "adresse": "2 rue Prayelle 7522 MARQUAIN",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=2 rue Prayelle 7522 MARQUAIN",
+      "club": "8512 - CYCLO LAMAIN SPORTS",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 85,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 70,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 30,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 12,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 6,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Fin des ravitos à 11h30",
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10168",
+      "nom": "La Pascal De Luca - GEER et MEUSE",
+      "date": "2027-08-29",
+      "province": "Liège",
+      "code_postal": "4690",
+      "localite": "BASSENGE Brevet à Dénivelé",
+      "texte_calendrier": "Voir plus + Voir moins - La Pascal De Luca - GEER et MEUSE Dimanche 29 Août 2027 Liège - 4690 BASSENGE Brevet à Dénivelé",
+      "lieu_depart": "Salle la Passerelle",
+      "adresse": "1 Chemin du Tram 4690 BASSENGE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Chemin du Tram 4690 BASSENGE",
+      "club": "9116 - CC GEER ET MEUSE",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 110,
+          "denivele": "D+ : 1160",
+          "difficulte": null,
+          "horaires": "07h30 - 09h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 90,
+          "denivele": "D+ : 1120",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "BAD",
+          "distance_km": 85,
+          "denivele": "D+ : 850",
+          "difficulte": null,
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 70,
+          "denivele": "D+ : 475",
+          "difficulte": null,
+          "horaires": "07h30 - 11h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 70,
+          "denivele": "D+ : 830",
+          "difficulte": null,
+          "horaires": "07h30 - 09h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 52,
+          "denivele": "D+ : 370",
+          "difficulte": null,
+          "horaires": "07h30 - 11h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 50,
+          "denivele": "D+ : 550",
+          "difficulte": null,
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "FAMILY",
+          "distance_km": 33,
+          "denivele": "D+ : 175",
+          "difficulte": null,
+          "horaires": "07h30 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,00€ / NON FFBC : 3,50€"
+        }
+      ],
+      "remarque": "Parcours Route fléchés & GPX disponibles\nParcours Gravel & Route 110k uniquement GPX \nPré-inscription possible mais pas obligatoire",
+      "liens_externes": [
+        {
+          "libelle": "www.ccgeermeuse.be",
+          "url": "http://www.ccgeermeuse.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10196",
+      "nom": "Les Cimes Mosanes",
+      "date": "2027-08-29",
+      "province": "Namur",
+      "code_postal": "5020",
+      "localite": "VEDRIN Brevet à Dénivelé",
+      "texte_calendrier": "Voir plus + Voir moins - Les Cimes Mosanes Dimanche 29 Août 2027 Namur - 5020 VEDRIN Brevet à Dénivelé",
+      "lieu_depart": "Salle St Eloi",
+      "adresse": "29 Rue du Blanc Bois 5020 VEDRIN",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 5020 VEDRIN",
+      "club": "3203 - VC VEDRIN",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 99,
+          "denivele": "D+ : 1089",
+          "difficulte": null,
+          "horaires": "08h00 - 09h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "BAD",
+          "distance_km": 80,
+          "denivele": "D+ : 874",
+          "difficulte": null,
+          "horaires": "08h00 - 09h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 46,
+          "denivele": "D+ : 361",
+          "difficulte": null,
+          "horaires": "08h00 - 11h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "FAMILY",
+          "distance_km": 25,
+          "denivele": "D+ : 209",
+          "difficulte": null,
+          "horaires": "08h00 - 12h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique + Semi-permanente du 30/08 au 03/09\nMarques au sol - GPX - Feuille de route\nPréinscription - Assistance GPS",
+      "liens_externes": [
+        {
+          "libelle": "vcvedrin.be",
+          "url": "http://vcvedrin.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10218",
+      "nom": "L'Arel Bësch",
+      "date": "2027-08-29",
+      "province": "Luxembourg",
+      "code_postal": "6700",
+      "localite": "ARLON",
+      "texte_calendrier": "Voir plus + Voir moins - L'Arel Bësch Dimanche 29 Août 2027 Luxembourg - 6700 ARLON",
+      "lieu_depart": "Espace Milan",
+      "adresse": "1 Rue Caserne Callemeyn 6700 ARLON",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Rue Caserne Callemeyn 6700 ARLON",
+      "club": "1512 - ARLON Promovélo Lorraine asbl",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 90,
+          "denivele": "D+ : 1170",
+          "difficulte": "Difficile",
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 60,
+          "denivele": "D+ : 780",
+          "difficulte": "Moyen",
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 60,
+          "denivele": "D+ : 700",
+          "difficulte": "Moyen",
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 55,
+          "denivele": "D+ : 1030",
+          "difficulte": "Très Difficile",
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "3",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 45,
+          "denivele": "D+ : 510",
+          "difficulte": "Facile",
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 45,
+          "denivele": "D+ : 790",
+          "difficulte": "Difficile",
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 40,
+          "denivele": "D+ : 500",
+          "difficulte": "Facile",
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 35,
+          "denivele": "D+ : 570",
+          "difficulte": "Moyen",
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 25,
+          "denivele": "D+ : 310",
+          "difficulte": "Facile",
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 13,
+          "denivele": "D+ : 190",
+          "difficulte": "Moyen",
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 6,
+          "denivele": "D+ : 95",
+          "difficulte": "Facile",
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        }
+      ],
+      "remarque": "Bar - Petite restauration - Bike wash\nCyclo : vers le GDLux - Gravel : via GPX VTT : challenge de la montée impossible",
+      "liens_externes": [
+        {
+          "libelle": "www.promovelo.be",
+          "url": "http://www.promovelo.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10432",
+      "nom": "Bel'Gaum Raid",
+      "date": "2027-08-29",
+      "province": "Luxembourg",
+      "code_postal": "6730",
+      "localite": "BELLEFONTAINE",
+      "texte_calendrier": "Voir plus + Voir moins - Bel'Gaum Raid Dimanche 29 Août 2027 Luxembourg - 6730 BELLEFONTAINE",
+      "lieu_depart": "Centre sportif",
+      "adresse": "77  Place J.Ch. de Hugo 6730 BELLEFONTAINE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=77  Place J.Ch. de Hugo 6730 BELLEFONTAINE",
+      "club": "9708 - BELLEFONTAINE Cyclo-Club",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 83,
+          "denivele": "D+ : 1591",
+          "difficulte": null,
+          "horaires": "07h00 - 09h00",
+          "ravitaillement": "4",
+          "tarif": "FFBC : 7,00€ / NON FFBC : 8,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 69,
+          "denivele": "D+ : 1249",
+          "difficulte": null,
+          "horaires": "07h00 - 09h30",
+          "ravitaillement": "3",
+          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 63,
+          "denivele": "D+ : 1159",
+          "difficulte": null,
+          "horaires": "07h00 - 09h30",
+          "ravitaillement": "3",
+          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 48,
+          "denivele": "D+ : 813",
+          "difficulte": null,
+          "horaires": "07h00 - 10h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 34,
+          "denivele": "D+ : 496",
+          "difficulte": null,
+          "horaires": "07h00 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,50€ / NON FFBC : 6,00€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 27,
+          "denivele": "D+ : 404",
+          "difficulte": null,
+          "horaires": "07h00 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 17,
+          "denivele": "D+ : 243",
+          "difficulte": null,
+          "horaires": "07h00 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 10,
+          "denivele": "D+ : 105",
+          "difficulte": null,
+          "horaires": "07h00 - 10h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 5,
+          "denivele": "D+ : 58",
+          "difficulte": null,
+          "horaires": "07h00 - 10h30",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Bike wash /  Pas de douches\nPetite restauration\nBike parc de 11h00 à 13h30",
+      "liens_externes": [
+        {
+          "libelle": "www.ccbellefontaine.be",
+          "url": "http://www.ccbellefontaine.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10740",
+      "nom": "LA KIWANIENNE",
+      "date": "2027-08-29",
+      "province": "Hainaut",
+      "code_postal": "7100",
+      "localite": "LA LOUVIERE Brevet à Dénivelé",
+      "texte_calendrier": "Voir plus + Voir moins - LA KIWANIENNE Dimanche 29 Août 2027 Hainaut - 7100 LA LOUVIERE Brevet à Dénivelé",
+      "lieu_depart": "Hall Omnisports de Bouvy",
+      "adresse": "127 Rue de Bouvy 7100 LA LOUVIERE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=127 Rue de Bouvy 7100 LA LOUVIERE",
+      "club": "1401 -  Cycling Team LRY ANDERLUES",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 130,
+          "denivele": "D+ : 1550",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "BAD",
+          "distance_km": 90,
+          "denivele": "D+ : 1050",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 65,
+          "denivele": "D+ : 560",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 40,
+          "denivele": "D+ : 300",
+          "difficulte": null,
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": null
+        }
+      ],
+      "remarque": "RALLYE DU COEUR KIWANNIS LA LOUVIERE",
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10742",
+      "nom": "Vtt Graines de Tournesols/vtt AMV",
+      "date": "2027-08-29",
+      "province": "Hainaut",
+      "code_postal": "7911",
+      "localite": "Frasnes-Lez-Buissenal",
+      "texte_calendrier": "Voir plus + Voir moins - Vtt Graines de Tournesols/vtt AMV Dimanche 29 Août 2027 Hainaut - 7911 Frasnes-Lez-Buissenal",
+      "lieu_depart": "Gîte Grand Rieu",
+      "adresse": "15 Rue Grand Rieu 7911 Frasnes-Lez-Buissenal",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=15 Rue Grand Rieu 7911 Frasnes-Lez-Buissenal",
+      "club": "2411 - VTT A.M.V.",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 62,
+          "denivele": "D+ : 1100",
+          "difficulte": null,
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": "3",
+          "tarif": "FFBC : 4,50€ / NON FFBC : 6,00€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 45,
+          "denivele": "D+ : 800",
+          "difficulte": null,
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 4,50€ / NON FFBC : 6,00€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 30,
+          "denivele": "D+ : 570",
+          "difficulte": null,
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,50€ / NON FFBC : 6,00€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 15,
+          "denivele": "D+ : 230",
+          "difficulte": "Moyen",
+          "horaires": "07h30 - 11h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 1,50€ / NON FFBC : 3,00€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 6,
+          "denivele": "D+ : 110",
+          "difficulte": "Facile",
+          "horaires": "07h30 - 11h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 1,50€ / NON FFBC : 3,00€"
+        }
+      ],
+      "remarque": null,
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    }
+  ]
+}

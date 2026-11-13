@@ -1,0 +1,1134 @@
+{
+  "source": "https://www.velo-liberte.be/calendrier/",
+  "mois_extrait": "2027-02",
+  "date_extraction": "2026-11-13",
+  "nombre_randonnées": 26,
+  "randonnées": [
+    {
+      "id": "10339",
+      "nom": "Sortie du Jeudi n°4",
+      "date": "2027-02-04",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n°4 Jeudi 04 Février 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10010",
+      "nom": "Brevet des Progressions. Antoing",
+      "date": "2027-02-06",
+      "province": "Hainaut",
+      "code_postal": "7640",
+      "localite": "ANTOING Brevet Progression Fédérale",
+      "texte_calendrier": "Voir plus + Voir moins - Brevet des Progressions. Antoing Samedi 06 Février 2027 Hainaut - 7640 ANTOING Brevet Progression Fédérale",
+      "lieu_depart": "SCALDIS",
+      "adresse": "2 Rue Wattecamps //  Place du Préau 7640 ANTOING",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=2 Rue Wattecamps //  Place du Préau 7640 ANTOING",
+      "club": "8510 - CYCLOTOURISTES D  ANTOING",
+      "parcours": [
+        {
+          "type": "BPF",
+          "distance_km": 55,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Gratuit. Allure guidée. Parcours non balisé.\nInfo: ctantoing.com",
+      "liens_externes": [
+        {
+          "libelle": "ctantoing.com",
+          "url": "http://ctantoing.com"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10495",
+      "nom": "Progression - 40km",
+      "date": "2027-02-06",
+      "province": "Brabant Wallon",
+      "code_postal": "1490",
+      "localite": "Court-Saint-Etienne Brevet Progression Fédérale",
+      "texte_calendrier": "Voir plus + Voir moins - Progression - 40km Samedi 06 Février 2027 Brabant Wallon - 1490 Court-Saint-Etienne Brevet Progression Fédérale",
+      "lieu_depart": "Centre sportif de Court-Saint-Etienne",
+      "adresse": "1A Avenue de Wisterzée 1490 Court-Saint-Etienne",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1A Avenue de Wisterzée 1490 Court-Saint-Etienne",
+      "club": "3707 - Guidons Courtois",
+      "parcours": [
+        {
+          "type": "BPF",
+          "distance_km": 40,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Départ unique - Parcours groupé et guidé\nAllure adaptée aux moins entrainés (20-21kmh)\nParking disponible sur place",
+      "liens_externes": [
+        {
+          "libelle": "www.guidons-courtois.be",
+          "url": "http://www.guidons-courtois.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10280",
+      "nom": "BREVET DE PROGRESSION - 55 km",
+      "date": "2027-02-07",
+      "province": "Hainaut",
+      "code_postal": "7620",
+      "localite": "JOLLAIN-MERLIN Brevet Progression Fédérale",
+      "texte_calendrier": "Voir plus + Voir moins - BREVET DE PROGRESSION - 55 km Dimanche 07 Février 2027 Hainaut - 7620 JOLLAIN-MERLIN Brevet Progression Fédérale",
+      "lieu_depart": "Café de la Fraternité",
+      "adresse": "12 Rue Henri Descarpentry 7620 JOLLAIN-MERLIN",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=12 Rue Henri Descarpentry 7620 JOLLAIN-MERLIN",
+      "club": "1159 - Les Cent Amis de Bléharies",
+      "parcours": [
+        {
+          "type": "BPF",
+          "distance_km": 55,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 09h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": null,
+      "liens_externes": [
+        {
+          "libelle": "www.100amisbleharies.e-monsite.com/",
+          "url": "http://www.100amisbleharies.e-monsite.com/"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10594",
+      "nom": "Progression fédérale - 30km",
+      "date": "2027-02-07",
+      "province": "Hainaut",
+      "code_postal": "6224",
+      "localite": "Fleurus (Wanfercée-Baulet) Brevet Progression Fédérale",
+      "texte_calendrier": "Voir plus + Voir moins - Progression fédérale - 30km Dimanche 07 Février 2027 Hainaut - 6224 Fleurus (Wanfercée-Baulet) Brevet Progression Fédérale",
+      "lieu_depart": "Local VCCF - Ancien hôtel de ville",
+      "adresse": "1 Place André Renard 6224 Fleurus (Wanfercée-Baulet)",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Place André Renard 6224 Fleurus (Wanfercée-Baulet)",
+      "club": "1801 - Vélo Cyclo Club Fleurusien",
+      "parcours": [
+        {
+          "type": "BPF",
+          "distance_km": 40,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h30 - 09h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,00€ / NON FFBC : 3,50€"
+        },
+        {
+          "type": "BPF",
+          "distance_km": 30,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h30 - 09h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,00€ / NON FFBC : 3,50€"
+        }
+      ],
+      "remarque": "Remise en forme en groupe\nCircuit facile - Départ groupé à 9h30.\nAllure modérée (entre 20 et 22km/h)",
+      "liens_externes": [
+        {
+          "libelle": "www.vccffleurus.blogspot.com/",
+          "url": "http://www.vccffleurus.blogspot.com/"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10340",
+      "nom": "Sortie du Jeudi n°5",
+      "date": "2027-02-11",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n°5 Jeudi 11 Février 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10009",
+      "nom": "Randonnée du Président",
+      "date": "2027-02-13",
+      "province": "Namur",
+      "code_postal": "5020",
+      "localite": "VEDRIN",
+      "texte_calendrier": "Voir plus + Voir moins - Randonnée du Président Samedi 13 Février 2027 Namur - 5020 VEDRIN",
+      "lieu_depart": "Salle St Eloi",
+      "adresse": "29 Rue du Blanc Bois 5020 VEDRIN",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 5020 VEDRIN",
+      "club": "3203 - VC VEDRIN",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 46,
+          "denivele": "D+ : 363",
+          "difficulte": null,
+          "horaires": "13h00 - 15h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 44,
+          "denivele": "D+ : 298",
+          "difficulte": null,
+          "horaires": "13h00 - 15h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        }
+      ],
+      "remarque": "Classique + Semi-permanente du 15/02 au 19/02\nPhilanthropique (Maladie de Charcot)\nMarques au sol (44 km) - GPX - Feuille route",
+      "liens_externes": [
+        {
+          "libelle": "vcvedrin.be",
+          "url": "http://vcvedrin.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10013",
+      "nom": "Brevet des Progressions. Antoing",
+      "date": "2027-02-13",
+      "province": "Hainaut",
+      "code_postal": "7640",
+      "localite": "ANTOING Brevet Progression Fédérale",
+      "texte_calendrier": "Voir plus + Voir moins - Brevet des Progressions. Antoing Samedi 13 Février 2027 Hainaut - 7640 ANTOING Brevet Progression Fédérale",
+      "lieu_depart": "SCALDIS",
+      "adresse": "2 Rue Wattecamps //  Place du Préau 7640 ANTOING",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=2 Rue Wattecamps //  Place du Préau 7640 ANTOING",
+      "club": "8510 - CYCLOTOURISTES D  ANTOING",
+      "parcours": [
+        {
+          "type": "BPF",
+          "distance_km": 65,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Gratuit. Allure guidée. Parcours non balisé.\nInfo: ctantoing.com",
+      "liens_externes": [
+        {
+          "libelle": "ctantoing.com",
+          "url": "http://ctantoing.com"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10281",
+      "nom": "BREVET DE PROGRESSION - 65 km",
+      "date": "2027-02-14",
+      "province": "Hainaut",
+      "code_postal": "7620",
+      "localite": "JOLLAIN-MERLIN Brevet Progression Fédérale",
+      "texte_calendrier": "Voir plus + Voir moins - BREVET DE PROGRESSION - 65 km Dimanche 14 Février 2027 Hainaut - 7620 JOLLAIN-MERLIN Brevet Progression Fédérale",
+      "lieu_depart": "Café de la Fraternité",
+      "adresse": "12 Rue Henri Descarpentry 7620 JOLLAIN-MERLIN",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=12 Rue Henri Descarpentry 7620 JOLLAIN-MERLIN",
+      "club": "1159 - Les Cent Amis de Bléharies",
+      "parcours": [
+        {
+          "type": "BPF",
+          "distance_km": 65,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 09h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": null,
+      "liens_externes": [
+        {
+          "libelle": "www.100amisbleharies.e-monsite.com/",
+          "url": "http://www.100amisbleharies.e-monsite.com/"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10438",
+      "nom": "Randonnée du Président Bis",
+      "date": "2027-02-14",
+      "province": "Namur",
+      "code_postal": "5020",
+      "localite": "VEDRIN",
+      "texte_calendrier": "Voir plus + Voir moins - Randonnée du Président Bis Dimanche 14 Février 2027 Namur - 5020 VEDRIN",
+      "lieu_depart": "Salle St Eloi",
+      "adresse": "29 Rue du Blanc Bois 5020 VEDRIN",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 5020 VEDRIN",
+      "club": "3203 - VC VEDRIN",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 46,
+          "denivele": "D+ : 363",
+          "difficulte": null,
+          "horaires": "09h00 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 44,
+          "denivele": "D+ : 298",
+          "difficulte": null,
+          "horaires": "09h00 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique - Préinscription\nMarques au sol sur 44 km - GPX\nFeuille de route - Assistance GPS",
+      "liens_externes": [
+        {
+          "libelle": "vcvedrin.be",
+          "url": "http://vcvedrin.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10595",
+      "nom": "Progression fédérale - 35km",
+      "date": "2027-02-14",
+      "province": "Hainaut",
+      "code_postal": "6224",
+      "localite": "Fleurus (Wanfercée-Baulet) Brevet Progression Fédérale",
+      "texte_calendrier": "Voir plus + Voir moins - Progression fédérale - 35km Dimanche 14 Février 2027 Hainaut - 6224 Fleurus (Wanfercée-Baulet) Brevet Progression Fédérale",
+      "lieu_depart": "Local VCCF - Ancien hôtel de ville",
+      "adresse": "1 Place André Renard 6224 Fleurus (Wanfercée-Baulet)",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Place André Renard 6224 Fleurus (Wanfercée-Baulet)",
+      "club": "1801 - Vélo Cyclo Club Fleurusien",
+      "parcours": [
+        {
+          "type": "BPF",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h30 - 09h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,00€ / NON FFBC : 3,50€"
+        },
+        {
+          "type": "BPF",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h30 - 09h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,00€ / NON FFBC : 3,50€"
+        }
+      ],
+      "remarque": "Remise en forme en groupe\nCircuit facile - Départ groupé à 9h30.\nAllure modérée (entre 20 et 22km/h)",
+      "liens_externes": [
+        {
+          "libelle": "www.vccffleurus.blogspot.com/",
+          "url": "http://www.vccffleurus.blogspot.com/"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10636",
+      "nom": "Start of Training 1 -BPF",
+      "date": "2027-02-17",
+      "province": "Namur",
+      "code_postal": "5060",
+      "localite": "Auvelais Brevet Progression Fédérale",
+      "texte_calendrier": "Voir plus + Voir moins - Start of Training 1 -BPF Mercredi 17 Février 2027 Namur - 5060 Auvelais Brevet Progression Fédérale",
+      "lieu_depart": "café l Ambassadeur",
+      "adresse": "11 Grand'Place d'Auvelais  5060 Auvelais",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=11 Grand'Place d'Auvelais  5060 Auvelais",
+      "club": "3726 - VELO LOISIR SAMBREVILLE",
+      "parcours": [
+        {
+          "type": "BPF",
+          "distance_km": 30,
+          "denivele": "D+ : 235",
+          "difficulte": "Facile",
+          "horaires": "14h00 - 16h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique- Départ de tout endroit du parcours\nInscriptions sur place +1€\nGPX SEULEMENT- info.vlsambreville@gmail.com",
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10341",
+      "nom": "Sortie du Jeudi n°6",
+      "date": "2027-02-18",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n°6 Jeudi 18 Février 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10012",
+      "nom": "Souvenir Albert JACQUES",
+      "date": "2027-02-20",
+      "province": "Namur",
+      "code_postal": "5030",
+      "localite": "Sauvenière",
+      "texte_calendrier": "Voir plus + Voir moins - Souvenir Albert JACQUES Samedi 20 Février 2027 Namur - 5030 Sauvenière",
+      "lieu_depart": "Buvette du Football",
+      "adresse": "1 chemin de Grand-Leez 5030 Sauvenière",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 chemin de Grand-Leez 5030 Sauvenière",
+      "club": "3215 - GEMBLOUX SPRINT CLUB",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 50,
+          "denivele": "D+ : 400",
+          "difficulte": null,
+          "horaires": "11h00 - 14h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 35,
+          "denivele": "D+ : 250",
+          "difficulte": null,
+          "horaires": "11h00 - 14h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique - Accueil\nTrace au sol - préinscription - traces GPX\nParking - feuille de route",
+      "liens_externes": [
+        {
+          "libelle": "www.facebook.com/groups/835180164430716",
+          "url": "http://www.facebook.com/groups/835180164430716"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10213",
+      "nom": "MISE EN ROUTE",
+      "date": "2027-02-20",
+      "province": "Hainaut",
+      "code_postal": "7540",
+      "localite": "Kain",
+      "texte_calendrier": "Voir plus + Voir moins - MISE EN ROUTE Samedi 20 Février 2027 Hainaut - 7540 Kain",
+      "lieu_depart": "Salle Le Sourire",
+      "adresse": "1 Place de Kain 7540 Kain",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Place de Kain 7540 Kain",
+      "club": "8618 - ROYALE UNION AUDAX TOURNAI",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 75,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "12h30 - 14h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 65,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "12h30 - 14h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 40,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "12h30 - 14h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 15,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "12h30 - 14h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 10,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "12h30 - 14h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 5,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "12h30 - 14h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Préinscription avant 19/02 18h00 - Majoration\n 1 € inscription sur place - circuit fléché -\nmarche:2 € - ravito -  Social Ride à 13 h",
+      "liens_externes": [
+        {
+          "libelle": "www.royalaudaxtournai.be",
+          "url": "http://www.royalaudaxtournai.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10500",
+      "nom": "Progression - 50 km",
+      "date": "2027-02-20",
+      "province": "Brabant Wallon",
+      "code_postal": "1490",
+      "localite": "Court-Saint-Etienne Brevet Progression Fédérale",
+      "texte_calendrier": "Voir plus + Voir moins - Progression - 50 km Samedi 20 Février 2027 Brabant Wallon - 1490 Court-Saint-Etienne Brevet Progression Fédérale",
+      "lieu_depart": "Centre sportif de Court-Saint-Etienne",
+      "adresse": "1A Avenue de Wisterzée 1490 Court-Saint-Etienne",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1A Avenue de Wisterzée 1490 Court-Saint-Etienne",
+      "club": "3707 - Guidons Courtois",
+      "parcours": [
+        {
+          "type": "BPF",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Départ unique - Parcours groupé et guidé\nAllure adaptée aux moins entrainés (20-21kmh)\nParking disponible sur place",
+      "liens_externes": [
+        {
+          "libelle": "www.guidons-courtois.be",
+          "url": "http://www.guidons-courtois.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10596",
+      "nom": "Progression fédérale - 40km",
+      "date": "2027-02-21",
+      "province": "Hainaut",
+      "code_postal": "6224",
+      "localite": "Fleurus (Wanfercée-Baulet) Brevet Progression Fédérale",
+      "texte_calendrier": "Voir plus + Voir moins - Progression fédérale - 40km Dimanche 21 Février 2027 Hainaut - 6224 Fleurus (Wanfercée-Baulet) Brevet Progression Fédérale",
+      "lieu_depart": "Local VCCF - Ancien hôtel de ville",
+      "adresse": "1 Place André Renard 6224 Fleurus (Wanfercée-Baulet)",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Place André Renard 6224 Fleurus (Wanfercée-Baulet)",
+      "club": "1801 - Vélo Cyclo Club Fleurusien",
+      "parcours": [
+        {
+          "type": "BPF",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h30 - 09h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,00€ / NON FFBC : 3,50€"
+        },
+        {
+          "type": "BPF",
+          "distance_km": 40,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h30 - 09h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,00€ / NON FFBC : 3,50€"
+        }
+      ],
+      "remarque": "Remise en forme en groupe\nCircuit facile - Départ groupé à 9h30.\nAllure modérée (entre 20 et 22km/h)",
+      "liens_externes": [
+        {
+          "libelle": "www.vccffleurus.blogspot.com/",
+          "url": "http://www.vccffleurus.blogspot.com/"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10632",
+      "nom": "Marche Abbaye d'Aulne",
+      "date": "2027-02-21",
+      "province": "Hainaut",
+      "code_postal": "6110",
+      "localite": "MONTIGNY LE TILLEUL",
+      "texte_calendrier": "Voir plus + Voir moins - Marche Abbaye d'Aulne Dimanche 21 Février 2027 Hainaut - 6110 MONTIGNY LE TILLEUL",
+      "lieu_depart": "CLUB CYCLO MONTIGNY",
+      "adresse": "31 RUE DES FOUGERES 6110 MONTIGNY LE TILLEUL",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=31 RUE DES FOUGERES 6110 MONTIGNY LE TILLEUL",
+      "club": "1401 -  Cycling Team LRY ANDERLUES",
+      "parcours": [
+        {
+          "type": "MARCHE",
+          "distance_km": 19,
+          "denivele": "D+ : 338",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 15,
+          "denivele": "D+ : 283",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 11,
+          "denivele": "D+ : 226",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 6,
+          "denivele": "D+ : 119",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Parcours boisés - fléchage optimum \ninfos: 0475/81 03 04",
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10726",
+      "nom": "30eme Randonnée VTT",
+      "date": "2027-02-21",
+      "province": "Luxembourg",
+      "code_postal": "6760",
+      "localite": "ETHE-VIRTON",
+      "texte_calendrier": "Voir plus + Voir moins - 30eme Randonnée VTT Dimanche 21 Février 2027 Luxembourg - 6760 ETHE-VIRTON",
+      "lieu_depart": "Terrain de Football",
+      "adresse": "24 Rue Nouvelle   6760 ETHE-VIRTON",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=24 Rue Nouvelle   6760 ETHE-VIRTON",
+      "club": "9730 - ETHE Gaume VTT",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 46,
+          "denivele": "D+ : 785",
+          "difficulte": null,
+          "horaires": "08h30 - 10h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 30,
+          "denivele": "D+ : 470",
+          "difficulte": null,
+          "horaires": "08h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 20,
+          "denivele": "D+ : 280",
+          "difficulte": null,
+          "horaires": "08h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 2,00€ / NON FFBC : 3,50€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 20,
+          "denivele": "D+ : 300",
+          "difficulte": null,
+          "horaires": "08h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 15,
+          "denivele": "D+ : 280",
+          "difficulte": null,
+          "horaires": "08h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 10,
+          "denivele": "D+ : 160",
+          "difficulte": null,
+          "horaires": "08h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 5,
+          "denivele": "D+ : 110",
+          "difficulte": null,
+          "horaires": "08h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": null
+        }
+      ],
+      "remarque": null,
+      "liens_externes": [
+        {
+          "libelle": "www.facebook.com/GaumeVTT",
+          "url": "http://www.facebook.com/GaumeVTT"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10637",
+      "nom": "Start of Training 2 BPF",
+      "date": "2027-02-24",
+      "province": "Namur",
+      "code_postal": "5060",
+      "localite": "Auvelais Brevet Progression Fédérale",
+      "texte_calendrier": "Voir plus + Voir moins - Start of Training 2 BPF Mercredi 24 Février 2027 Namur - 5060 Auvelais Brevet Progression Fédérale",
+      "lieu_depart": "café l Ambassadeur",
+      "adresse": "11 Grand'Place d'Auvelais  5060 Auvelais",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=11 Grand'Place d'Auvelais  5060 Auvelais",
+      "club": "3726 - VELO LOISIR SAMBREVILLE",
+      "parcours": [
+        {
+          "type": "BPF",
+          "distance_km": 30,
+          "denivele": "D+ : 235",
+          "difficulte": "Facile",
+          "horaires": "14h00 - 16h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique, Départ de tout endroit du parcours\nInscriptions sur place +1€\n GPX seulement-info.vlsambreville@gmail.com",
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10342",
+      "nom": "Sortie du Jeudi n°7",
+      "date": "2027-02-25",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n°7 Jeudi 25 Février 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10022",
+      "nom": "La Hutoise- Mur de Huy",
+      "date": "2027-02-27",
+      "province": "Liège",
+      "code_postal": "4100",
+      "localite": "SERAING Brevet à Dénivelé",
+      "texte_calendrier": "Voir plus + Voir moins - La Hutoise- Mur de Huy Samedi 27 Février 2027 Liège - 4100 SERAING Brevet à Dénivelé",
+      "lieu_depart": "Complexe sportif du Bois Abbaye",
+      "adresse": "51-53 Avenue des Puddleurs  4100 SERAING",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=51-53 Avenue des Puddleurs  4100 SERAING",
+      "club": "3709 - Cycling team aux Assemblées",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 91,
+          "denivele": "D+ : 970",
+          "difficulte": null,
+          "horaires": "08h30 - 09h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 86,
+          "denivele": "D+ : 800",
+          "difficulte": null,
+          "horaires": "08h30 - 09h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 71,
+          "denivele": "D+ : 650",
+          "difficulte": null,
+          "horaires": "08h30 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "EASY",
+          "distance_km": 39,
+          "denivele": "D+ : 330",
+          "difficulte": null,
+          "horaires": "08h30 - 10h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Vaste parking - Vestiaires et douches D&H\n(Contact NL) Vanoirbeek V. Gsm: 0471 58 08 28",
+      "liens_externes": [
+        {
+          "libelle": "www.aux-assemblees.com",
+          "url": "http://www.aux-assemblees.com"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10593",
+      "nom": "Ouverture des Namuroises",
+      "date": "2027-02-27",
+      "province": "Namur",
+      "code_postal": "5150",
+      "localite": "Floreffe Namuroise",
+      "texte_calendrier": "Voir plus + Voir moins - Ouverture des Namuroises Samedi 27 Février 2027 Namur - 5150  Floreffe Namuroise",
+      "lieu_depart": "Moulin Brasserie Abbaye de Floreffe",
+      "adresse": "7 rue du Séminaire 5150  Floreffe",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=7 rue du Séminaire 5150  Floreffe",
+      "club": "55106 - Comité Provincial Namur",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 40,
+          "denivele": "D+ : 401",
+          "difficulte": null,
+          "horaires": "11h00 - 14h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "FAMILY",
+          "distance_km": 20,
+          "denivele": "D+ : 225",
+          "difficulte": null,
+          "horaires": "11h00 - 14h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ETOILE",
+          "distance_km": 0,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "11h00 - 14h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique- Accueil sur place\nMarquage au sol-Feuille de route-Trace GPX\nPréinscription souhaitée",
+      "liens_externes": [
+        {
+          "libelle": "www.cyclo-coprovnamur.be",
+          "url": "http://www.cyclo-coprovnamur.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10016",
+      "nom": "Souvenir A. BELLE",
+      "date": "2027-02-28",
+      "province": "Namur",
+      "code_postal": "5080",
+      "localite": "Emines",
+      "texte_calendrier": "Voir plus + Voir moins - Souvenir A. BELLE Dimanche 28 Février 2027 Namur - 5080 Emines",
+      "lieu_depart": "Centre sportif La bruyère",
+      "adresse": "33 Rue de Rhisnes 5080 Emines",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=33 Rue de Rhisnes 5080 Emines",
+      "club": "3510 - MEUX CYCLO LA BRUYERE",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique - Parcours facile\nSocial Ride à 9h30\nTrace au sol - GPX - Feuille de route",
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10470",
+      "nom": "Le Samyn des cyclos",
+      "date": "2027-02-28",
+      "province": "Hainaut",
+      "code_postal": "7370",
+      "localite": "DOUR Brevet à Dénivelé",
+      "texte_calendrier": "Voir plus + Voir moins - Le Samyn des cyclos Dimanche 28 Février 2027 Hainaut - 7370 DOUR Brevet à Dénivelé",
+      "lieu_depart": "Chapiteau Samyn",
+      "adresse": "1 à l'arrivée du Samyn 7370 DOUR",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 à l'arrivée du Samyn 7370 DOUR",
+      "club": "3312 - V.C. DE LA CHAPELLE",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 80,
+          "denivele": "D+ : 805",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 60,
+          "denivele": "D+ : 360",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 40,
+          "denivele": "D+ : 240",
+          "difficulte": null,
+          "horaires": "07h30 - 10h30",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Départ Allure libre \nSecteur pavé : 60 - 3,5kms / 80- 5,00kms",
+      "liens_externes": [
+        {
+          "libelle": "www.vclachapelle.be",
+          "url": "http://www.vclachapelle.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10597",
+      "nom": "Progression fédérale - 45km",
+      "date": "2027-02-28",
+      "province": "Hainaut",
+      "code_postal": "6224",
+      "localite": "Fleurus (Wanfercée-Baulet) Brevet Progression Fédérale",
+      "texte_calendrier": "Voir plus + Voir moins - Progression fédérale - 45km Dimanche 28 Février 2027 Hainaut - 6224 Fleurus (Wanfercée-Baulet) Brevet Progression Fédérale",
+      "lieu_depart": "Local VCCF - Ancien hôtel de ville",
+      "adresse": "1 Place André Renard 6224 Fleurus (Wanfercée-Baulet)",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Place André Renard 6224 Fleurus (Wanfercée-Baulet)",
+      "club": "1801 - Vélo Cyclo Club Fleurusien",
+      "parcours": [
+        {
+          "type": "BPF",
+          "distance_km": 55,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h30 - 09h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,00€ / NON FFBC : 3,50€"
+        },
+        {
+          "type": "BPF",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h30 - 09h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,00€ / NON FFBC : 3,50€"
+        }
+      ],
+      "remarque": "Remise en forme en groupe\nCircuit facile - Départ groupé à 9h30.\nAllure modérée (entre 20 et 22km/h)",
+      "liens_externes": [
+        {
+          "libelle": "www.vccffleurus.blogspot.com/",
+          "url": "http://www.vccffleurus.blogspot.com/"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    }
+  ]
+}

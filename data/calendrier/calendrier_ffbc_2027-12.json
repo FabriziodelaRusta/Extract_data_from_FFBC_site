@@ -1,0 +1,2597 @@
+{
+  "source": "https://www.velo-liberte.be/calendrier/",
+  "mois_extrait": "2027-12",
+  "date_extraction": "2026-11-13",
+  "nombre_randonnées": 76,
+  "randonnées": [
+    {
+      "id": "10393",
+      "nom": "Sortie du Jeudi n° 45",
+      "date": "2027-12-02",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n° 45 Jeudi 02 Décembre 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10394",
+      "nom": "Sortie du Jeudi n° 46",
+      "date": "2027-12-09",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n° 46 Jeudi 09 Décembre 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10205",
+      "nom": "VTT de la Ferme Fleurie",
+      "date": "2027-12-12",
+      "province": "Hainaut",
+      "code_postal": "7620",
+      "localite": "Hollain",
+      "texte_calendrier": "Voir plus + Voir moins - VTT de la Ferme Fleurie Dimanche 12 Décembre 2027 Hainaut - 7620 Hollain",
+      "lieu_depart": "La Ferme fleurie",
+      "adresse": "169 Rue de Tournai 7620 Hollain",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=169 Rue de Tournai 7620 Hollain",
+      "club": "1159 - Les Cent Amis de Bléharies",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": "Difficile",
+          "horaires": "08h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 30,
+          "denivele": "D+ : N.A",
+          "difficulte": "Moyen",
+          "horaires": "08h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 20,
+          "denivele": "D+ : N.A",
+          "difficulte": "Facile",
+          "horaires": "08h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 10,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 5,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "BIKE WASH / DOUCHES \nPOTAGE ET PETITE RESTAURATION",
+      "liens_externes": [
+        {
+          "libelle": "www.100amisbleharies.e-monsite.com/",
+          "url": "http://www.100amisbleharies.e-monsite.com/"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10395",
+      "nom": "Sortie du Jeudi n° 47",
+      "date": "2027-12-23",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n° 47 Jeudi 23 Décembre 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9985",
+      "nom": "MARCHE DE LA ST SYLVESTRE",
+      "date": "2027-12-26",
+      "province": "Hainaut",
+      "code_postal": "7000",
+      "localite": "MONS",
+      "texte_calendrier": "Voir plus + Voir moins - MARCHE DE LA ST SYLVESTRE Dimanche 26 Décembre 2027 Hainaut - 7000 MONS",
+      "lieu_depart": "Auberge de jeunesse",
+      "adresse": "2 Rampe du Château 7000 MONS",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=2 Rampe du Château 7000 MONS",
+      "club": "8504 - LES DRAGONS AUDAX MONS",
+      "parcours": [
+        {
+          "type": "MARCHE",
+          "distance_km": 10,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "18h00 - 20h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,00€ / NON FFBC : 3,50€"
+        }
+      ],
+      "remarque": "Marche nocturne de la St Sylvestre",
+      "liens_externes": [
+        {
+          "libelle": "www.damons.be",
+          "url": "http://www.damons.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10396",
+      "nom": "Sortie du Jeudi n° 48",
+      "date": "2027-12-30",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n° 48 Jeudi 30 Décembre 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9914",
+      "nom": "03 - Oostende - Maaseik",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "8400",
+      "localite": "OOSTENDE Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 03 - Oostende - Maaseik Vendredi 31 Décembre 2027 Hainaut - 8400 OOSTENDE Diagonales",
+      "lieu_depart": "Centre",
+      "adresse": "x Gare 8400 OOSTENDE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Gare 8400 OOSTENDE",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 240,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 16h\nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9928",
+      "nom": "26 - Maaseik - Virton",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "3680",
+      "localite": "MAASEIK Diagonales Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - 26 - Maaseik - Virton Vendredi 31 Décembre 2027 Hainaut - 3680 MAASEIK Diagonales Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Centre",
+      "adresse": "x Place 3680 MAASEIK",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place 3680 MAASEIK",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 240,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 16h -\nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9955",
+      "nom": "01 - Oostende - Virton",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "8400",
+      "localite": "OOSTENDE Diagonales Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - 01 - Oostende - Virton Vendredi 31 Décembre 2027 Hainaut - 8400 OOSTENDE Diagonales Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Centre",
+      "adresse": "x Gare 8400 OOSTENDE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Gare 8400 OOSTENDE",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 320,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 24h /\nPeut être roulée toute l'année /\n1ère diagonale = + 4 €",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9956",
+      "nom": "02 - Oostende - Manderfeld",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "8400",
+      "localite": "OOSTENDE Diagonales Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - 02 - Oostende - Manderfeld Vendredi 31 Décembre 2027 Hainaut - 8400 OOSTENDE Diagonales Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Centre",
+      "adresse": "x Gare 8400 OOSTENDE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Gare 8400 OOSTENDE",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 320,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 24h\nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9957",
+      "nom": "03 - Oostende - Maaseik",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "8400",
+      "localite": "OOSTENDE Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 03 - Oostende - Maaseik Vendredi 31 Décembre 2027 Hainaut - 8400 OOSTENDE Diagonales",
+      "lieu_depart": "Centre",
+      "adresse": "x Gare 8400 OOSTENDE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Gare 8400 OOSTENDE",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 240,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 16h\nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9958",
+      "nom": "04 - Oostende - Chimay",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "8400",
+      "localite": "OOSTENDE Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 04 - Oostende - Chimay Vendredi 31 Décembre 2027 Hainaut - 8400 OOSTENDE Diagonales",
+      "lieu_depart": "Centre",
+      "adresse": "x Gare 8400 OOSTENDE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Gare 8400 OOSTENDE",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 195,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 13h",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9959",
+      "nom": "05 - Chimay - Manderfeld",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "6460",
+      "localite": "CHIMAY Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 05 - Chimay - Manderfeld Vendredi 31 Décembre 2027 Hainaut - 6460 CHIMAY Diagonales",
+      "lieu_depart": "Place",
+      "adresse": "x Centre 6460 CHIMAY",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Centre 6460 CHIMAY",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 190,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 13h",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9960",
+      "nom": "06 - Chimay - Maaseik",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "6460",
+      "localite": "CHIMAY Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 06 - Chimay - Maaseik Vendredi 31 Décembre 2027 Hainaut - 6460 CHIMAY Diagonales",
+      "lieu_depart": "Place",
+      "adresse": "x Centre 6460 CHIMAY",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Centre 6460 CHIMAY",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 190,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 13h",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9961",
+      "nom": "07 - Chimay - Turnhout",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "6460",
+      "localite": "CHIMAY Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 07 - Chimay - Turnhout Vendredi 31 Décembre 2027 Hainaut - 6460 CHIMAY Diagonales",
+      "lieu_depart": "Place",
+      "adresse": "x Centre 6460 CHIMAY",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Centre 6460 CHIMAY",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 190,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 13h\nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9962",
+      "nom": "08 - Mouscron - Turnhout",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "7700",
+      "localite": "MOUSCRON Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 08 - Mouscron - Turnhout Vendredi 31 Décembre 2027 Hainaut - 7700 MOUSCRON Diagonales",
+      "lieu_depart": "Gare",
+      "adresse": "x Place de la gare 7700 MOUSCRON",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place de la gare 7700 MOUSCRON",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 175,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 12h",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9963",
+      "nom": "09 - Mouscron - Maaseik",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "7700",
+      "localite": "MOUSCRON Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 09 - Mouscron - Maaseik Vendredi 31 Décembre 2027 Hainaut - 7700 MOUSCRON Diagonales",
+      "lieu_depart": "Gare",
+      "adresse": "x Place de la gare 7700 MOUSCRON",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place de la gare 7700 MOUSCRON",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 220,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 15h\nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9964",
+      "nom": "10 - Mouscron - Virton",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "7700",
+      "localite": "MOUSCRON Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 10 - Mouscron - Virton Vendredi 31 Décembre 2027 Hainaut - 7700 MOUSCRON Diagonales",
+      "lieu_depart": "Gare",
+      "adresse": "x Place de la gare 7700 MOUSCRON",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place de la gare 7700 MOUSCRON",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 270,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - 19h\nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9965",
+      "nom": "11 - Mouscron - Manderfeld",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "7700",
+      "localite": "MOUSCRON Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 11 - Mouscron - Manderfeld Vendredi 31 Décembre 2027 Hainaut - 7700 MOUSCRON Diagonales",
+      "lieu_depart": "Gare",
+      "adresse": "x Place de la gare 7700 MOUSCRON",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place de la gare 7700 MOUSCRON",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 285,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 20h\nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9966",
+      "nom": "12 - Virton - Maaseik",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "6760",
+      "localite": "VIRTON Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 12 - Virton - Maaseik Vendredi 31 Décembre 2027 Hainaut - 6760 VIRTON Diagonales",
+      "lieu_depart": "Centre",
+      "adresse": "x Place 6760 VIRTON",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place 6760 VIRTON",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 240,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 16h\nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9967",
+      "nom": "13 - Virton - Turnhout",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "6760",
+      "localite": "VIRTON Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 13 - Virton - Turnhout Vendredi 31 Décembre 2027 Hainaut - 6760 VIRTON Diagonales",
+      "lieu_depart": "Centre",
+      "adresse": "x Place 6760 VIRTON",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place 6760 VIRTON",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 255,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 18h\nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9968",
+      "nom": "14 - Manderfeld - Turnhout",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "4760",
+      "localite": "MANDERFELD Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 14 - Manderfeld - Turnhout Vendredi 31 Décembre 2027 Hainaut - 4760 MANDERFELD Diagonales",
+      "lieu_depart": "Centre",
+      "adresse": "x Place 4760 MANDERFELD",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place 4760 MANDERFELD",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 195,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 13h\nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9969",
+      "nom": "15 - Chimay - Ostende",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "6460",
+      "localite": "CHIMAY Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 15 - Chimay - Ostende Vendredi 31 Décembre 2027 Hainaut - 6460 CHIMAY Diagonales",
+      "lieu_depart": "Place",
+      "adresse": "x Centre 6460 CHIMAY",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Centre 6460 CHIMAY",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 195,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "parcours libre - délai 13h",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9970",
+      "nom": "16 - Turnhout - Mouscron",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "2300",
+      "localite": "TURNHOUT Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 16 - Turnhout - Mouscron Vendredi 31 Décembre 2027 Hainaut - 2300 TURNHOUT Diagonales",
+      "lieu_depart": "place",
+      "adresse": "x centre 2300 TURNHOUT",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x centre 2300 TURNHOUT",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 175,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "parcours libre - délai 12 h",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9971",
+      "nom": "17 - Virton - Ostende",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "6760",
+      "localite": "VIRTON Diagonales Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - 17 - Virton - Ostende Vendredi 31 Décembre 2027 Hainaut - 6760 VIRTON Diagonales Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Centre",
+      "adresse": "x Place 6760 VIRTON",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place 6760 VIRTON",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 320,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 24h - Peut être roulée\n toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9972",
+      "nom": "18 - Maaseik - Oostende",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "3680",
+      "localite": "MAASEIK Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 18 - Maaseik - Oostende Vendredi 31 Décembre 2027 Hainaut - 3680 MAASEIK Diagonales",
+      "lieu_depart": "Centre",
+      "adresse": "x Place 3680 MAASEIK",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place 3680 MAASEIK",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 240,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 16h Peut être roulée \ntoute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9973",
+      "nom": "19 - Virton - Mouscron",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "6760",
+      "localite": "VIRTON Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 19 - Virton - Mouscron Vendredi 31 Décembre 2027 Hainaut - 6760 VIRTON Diagonales",
+      "lieu_depart": "Centre",
+      "adresse": "x Place 6760 VIRTON",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place 6760 VIRTON",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 270,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - 19h Peut être roulée toute \nl'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9974",
+      "nom": "20 - Turnhout - Chimay",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "2300",
+      "localite": "TURNHOUT Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 20 - Turnhout - Chimay Vendredi 31 Décembre 2027 Hainaut - 2300 TURNHOUT Diagonales",
+      "lieu_depart": "place",
+      "adresse": "x centre 2300 TURNHOUT",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x centre 2300 TURNHOUT",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 190,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 13h Peut être roulée \ntoute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9975",
+      "nom": "21 - Manderfeld - Mouscron",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "4760",
+      "localite": "MANDERFELD Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 21 - Manderfeld - Mouscron Vendredi 31 Décembre 2027 Hainaut - 4760 MANDERFELD Diagonales",
+      "lieu_depart": "Centre",
+      "adresse": "x Place 4760 MANDERFELD",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place 4760 MANDERFELD",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 285,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 20h Peut être roulée \ntoute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9976",
+      "nom": "22 - Manderfeld - Oostende",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "4760",
+      "localite": "MANDERFELD Diagonales Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - 22 - Manderfeld - Oostende Vendredi 31 Décembre 2027 Hainaut - 4760 MANDERFELD Diagonales Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Centre",
+      "adresse": "x Place 4760 MANDERFELD",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place 4760 MANDERFELD",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 320,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 24h Peut être roulée \ntoute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9977",
+      "nom": "23 - Manderfeld - Chimay",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "4760",
+      "localite": "MANDERFELD Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 23 - Manderfeld - Chimay Vendredi 31 Décembre 2027 Hainaut - 4760 MANDERFELD Diagonales",
+      "lieu_depart": "Centre",
+      "adresse": "x Place 4760 MANDERFELD",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place 4760 MANDERFELD",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 190,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 13h -\n Peut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9978",
+      "nom": "24 - Maaseik - Chimay",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "3680",
+      "localite": "MAASEIK Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 24 - Maaseik - Chimay Vendredi 31 Décembre 2027 Hainaut - 3680 MAASEIK Diagonales",
+      "lieu_depart": "Centre",
+      "adresse": "x Place 3680 MAASEIK",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place 3680 MAASEIK",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 190,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 13h  - \nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9979",
+      "nom": "25 - Maaseik - Mouscron",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "3680",
+      "localite": "MAASEIK Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 25 - Maaseik - Mouscron Vendredi 31 Décembre 2027 Hainaut - 3680 MAASEIK Diagonales",
+      "lieu_depart": "Centre",
+      "adresse": "x Place 3680 MAASEIK",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place 3680 MAASEIK",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 220,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 15h -\nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10520",
+      "nom": "Mt de l'Enclus-Mons-Mt de l'Enclus",
+      "date": "2027-12-31",
+      "province": "Liège",
+      "code_postal": "0000",
+      "localite": "Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Mt de l'Enclus-Mons-Mt de l'Enclus Vendredi 31 Décembre 2027 Liège - 0000 Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Une localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2205 - FFBC - GRAVEL",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 200,
+          "denivele": "D+ : 1700",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 10,00€ / NON FFBC : 11,50€"
+        }
+      ],
+      "remarque": "Permanente: peut être roulée toute l'année -\nAutre découpage: Enclus - Ath - Enclus: 108 \nkm et Mons - Ath - Mons: 90 km",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10521",
+      "nom": "Mons - Viroinval - Mons",
+      "date": "2027-12-31",
+      "province": "Liège",
+      "code_postal": "0000",
+      "localite": "Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Mons - Viroinval - Mons Vendredi 31 Décembre 2027 Liège - 0000 Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Une localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2205 - FFBC - GRAVEL",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 241,
+          "denivele": "D+ : 2900",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 10,00€ / NON FFBC : 11,50€"
+        }
+      ],
+      "remarque": "Permanente: peut être roulée toute l'année -\nAutre découpage: Mons - Beaumont - Mons: 97 \nkm et Beaumont - Vierves - Beaumont: 145 km",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10522",
+      "nom": "Viroinval - Orval - Viroinval",
+      "date": "2027-12-31",
+      "province": "Liège",
+      "code_postal": "0000",
+      "localite": "Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Viroinval - Orval - Viroinval Vendredi 31 Décembre 2027 Liège - 0000 Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Une localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2205 - FFBC - GRAVEL",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 252,
+          "denivele": "D+ : 4400",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 10,00€ / NON FFBC : 11,50€"
+        }
+      ],
+      "remarque": "Permanente: peut être roulée toute l'année -\nAutre découpage:Vierves - Bouillon - Vierves:\n155 km et Orval - Bouillon - Orval: 95 km",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10523",
+      "nom": "Mt l'Enclus-Waterloo-Mt l'Enclus",
+      "date": "2027-12-31",
+      "province": "Liège",
+      "code_postal": "0000",
+      "localite": "Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Mt l'Enclus-Waterloo-Mt l'Enclus Vendredi 31 Décembre 2027 Liège - 0000 Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Une localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2205 - FFBC - GRAVEL",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 222,
+          "denivele": "D+ : 1650",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 10,00€ / NON FFBC : 11,50€"
+        }
+      ],
+      "remarque": "Permanente: peut être roulée toute l'année -\nAutre découpage: Enclus - Enghien - Enclus: \n118 km et Enghien - Nivelles - Enghien:107 km",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10524",
+      "nom": "Waterloo - Fernelmont - Waterloo",
+      "date": "2027-12-31",
+      "province": "Liège",
+      "code_postal": "0000",
+      "localite": "Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Waterloo - Fernelmont - Waterloo Vendredi 31 Décembre 2027 Liège - 0000 Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Une localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2205 - FFBC - GRAVEL",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 230,
+          "denivele": "D+ : 2300",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 10,00€ / NON FFBC : 11,50€"
+        }
+      ],
+      "remarque": "Permanente: peut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10525",
+      "nom": "Fernelmont - Verviers - Fernelmont",
+      "date": "2027-12-31",
+      "province": "Liège",
+      "code_postal": "0000",
+      "localite": "Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Fernelmont - Verviers - Fernelmont Vendredi 31 Décembre 2027 Liège - 0000 Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Une localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2205 - FFBC - GRAVEL",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 234,
+          "denivele": "D+ : 1900",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 10,00€ / NON FFBC : 11,50€"
+        }
+      ],
+      "remarque": "Permanente: peut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10526",
+      "nom": "Achouffe - Verviers - Achouffe",
+      "date": "2027-12-31",
+      "province": "Liège",
+      "code_postal": "0000",
+      "localite": "Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Achouffe - Verviers - Achouffe Vendredi 31 Décembre 2027 Liège - 0000 Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Une localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2205 - FFBC - GRAVEL",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 208,
+          "denivele": "D+ : 4240",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 10,00€ / NON FFBC : 11,50€"
+        }
+      ],
+      "remarque": "Permanente: peut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10527",
+      "nom": "Achouffe - Orval - Achouffe",
+      "date": "2027-12-31",
+      "province": "Liège",
+      "code_postal": "0000",
+      "localite": "Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Achouffe - Orval - Achouffe Vendredi 31 Décembre 2027 Liège - 0000 Sur le parcours GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Une localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2205 - FFBC - GRAVEL",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 227,
+          "denivele": "D+ : 3140",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 10,00€ / NON FFBC : 11,50€"
+        }
+      ],
+      "remarque": "Permanente: peut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10528",
+      "nom": "Diagonale: Mont de l'Enclus - Orval",
+      "date": "2027-12-31",
+      "province": "Liège",
+      "code_postal": "7750",
+      "localite": "Mont de d'Enclus GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Diagonale: Mont de l'Enclus - Orval Vendredi 31 Décembre 2027 Liège - 7750 Mont de d'Enclus GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Parking au Sommet",
+      "adresse": "x Mont de l'Enclus 7750 Mont de d'Enclus",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Mont de l'Enclus 7750 Mont de d'Enclus",
+      "club": "2205 - FFBC - GRAVEL",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 337,
+          "denivele": "D+ : 4900",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 10,00€ / NON FFBC : 11,50€"
+        }
+      ],
+      "remarque": "Diagonale: peut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10529",
+      "nom": "Diagonale: Orval - Mont de l'Enclus",
+      "date": "2027-12-31",
+      "province": "Liège",
+      "code_postal": "6823",
+      "localite": "FLORENVILLE GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Diagonale: Orval - Mont de l'Enclus Vendredi 31 Décembre 2027 Liège - 6823 FLORENVILLE GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Abbaye d'Orval",
+      "adresse": "1 Orval 6823 FLORENVILLE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Orval 6823 FLORENVILLE",
+      "club": "2205 - FFBC - GRAVEL",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 308,
+          "denivele": "D+ : 3500",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 10,00€ / NON FFBC : 11,50€"
+        }
+      ],
+      "remarque": "Diagonale: peut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10530",
+      "nom": "Diagonale: Mt de l'Enclus-Verviers",
+      "date": "2027-12-31",
+      "province": "Liège",
+      "code_postal": "7750",
+      "localite": "Mont de d'Enclus GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Diagonale: Mt de l'Enclus-Verviers Vendredi 31 Décembre 2027 Liège - 7750 Mont de d'Enclus GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Parking au Sommet",
+      "adresse": "x Mont de l'Enclus 7750 Mont de d'Enclus",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Mont de l'Enclus 7750 Mont de d'Enclus",
+      "club": "2205 - FFBC - GRAVEL",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 340,
+          "denivele": "D+ : 3000",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 10,00€ / NON FFBC : 11,50€"
+        }
+      ],
+      "remarque": "Diagonale: peut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10531",
+      "nom": "Diagonale: Verviers-Mt de l'Enclus",
+      "date": "2027-12-31",
+      "province": "Liège",
+      "code_postal": "4800",
+      "localite": "VERVIERS GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Diagonale: Verviers-Mt de l'Enclus Vendredi 31 Décembre 2027 Liège - 4800 VERVIERS GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Parking du Parc Rodin",
+      "adresse": "x Rue de Grandville 4800 VERVIERS",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Rue de Grandville 4800 VERVIERS",
+      "club": "2205 - FFBC - GRAVEL",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 345,
+          "denivele": "D+ : 3520",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 10,00€ / NON FFBC : 11,50€"
+        }
+      ],
+      "remarque": "Diagonale: peut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10532",
+      "nom": "Diagonale: Verviers - Orval",
+      "date": "2027-12-31",
+      "province": "Liège",
+      "code_postal": "4800",
+      "localite": "VERVIERS GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Diagonale: Verviers - Orval Vendredi 31 Décembre 2027 Liège - 4800 VERVIERS GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Parking du Parc Rodin",
+      "adresse": "x Rue de Grandville 4800 VERVIERS",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Rue de Grandville 4800 VERVIERS",
+      "club": "2205 - FFBC - GRAVEL",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 201,
+          "denivele": "D+ : 3760",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 10,00€ / NON FFBC : 11,50€"
+        }
+      ],
+      "remarque": "Diagonale: peut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10533",
+      "nom": "Diagonale: Orval - Verviers",
+      "date": "2027-12-31",
+      "province": "Liège",
+      "code_postal": "6823",
+      "localite": "FLORENVILLE GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Diagonale: Orval - Verviers Vendredi 31 Décembre 2027 Liège - 6823 FLORENVILLE GRAVEL Permanentes Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Abbaye d'Orval",
+      "adresse": "1 Orval 6823 FLORENVILLE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Orval 6823 FLORENVILLE",
+      "club": "2205 - FFBC - GRAVEL",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 237,
+          "denivele": "D+ : 3410",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 10,00€ / NON FFBC : 11,50€"
+        }
+      ],
+      "remarque": "Diagonale: peut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10535",
+      "nom": "26 - Maaseik - Virton",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "3680",
+      "localite": "MAASEIK Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 26 - Maaseik - Virton Vendredi 31 Décembre 2027 Hainaut - 3680 MAASEIK Diagonales",
+      "lieu_depart": "Centre",
+      "adresse": "x Place 3680 MAASEIK",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Place 3680 MAASEIK",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 240,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 16h -\nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10536",
+      "nom": "27 - Turnhout - Virton",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "2300",
+      "localite": "TURNHOUT Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 27 - Turnhout - Virton Vendredi 31 Décembre 2027 Hainaut - 2300 TURNHOUT Diagonales",
+      "lieu_depart": "place",
+      "adresse": "x centre 2300 TURNHOUT",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x centre 2300 TURNHOUT",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 255,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 18h -\nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10537",
+      "nom": "28 - Turnhout - Manderfeld",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "2300",
+      "localite": "TURNHOUT Diagonales",
+      "texte_calendrier": "Voir plus + Voir moins - 28 - Turnhout - Manderfeld Vendredi 31 Décembre 2027 Hainaut - 2300 TURNHOUT Diagonales",
+      "lieu_depart": "place",
+      "adresse": "x centre 2300 TURNHOUT",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x centre 2300 TURNHOUT",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 195,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 2,50€ / NON FFBC : 4,00€"
+        }
+      ],
+      "remarque": "Parcours libre - délai 13h -\nPeut être roulée toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10672",
+      "nom": "31 - Diagonales - Triangle n° 1",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "0000",
+      "localite": "Sur le parcours Diagonales Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - 31 - Diagonales - Triangle n° 1 Vendredi 31 Décembre 2027 Hainaut - 0000 Sur le parcours Diagonales Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 800,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 8,50€ / NON FFBC : 10,00€"
+        }
+      ],
+      "remarque": "Ostende-Virton-Maaseik-Ostende /\nParcours libre - délai 65h /\nDépart libre sur le parcours toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10673",
+      "nom": "32 - Diagonales - Triangle n° 2",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "0000",
+      "localite": "Sur le parcours Diagonales Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - 32 - Diagonales - Triangle n° 2 Vendredi 31 Décembre 2027 Hainaut - 0000 Sur le parcours Diagonales Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 675,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 8,50€ / NON FFBC : 10,00€"
+        }
+      ],
+      "remarque": "Chimay-Turnhout-Manderfeld-Chimay /\nParcours libre - délai 46h /\nDépart libre sur le parcours toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10674",
+      "nom": "33 - Diagonales - Triangles n° 3",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "0000",
+      "localite": "Sur le parcours Diagonales Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - 33 - Diagonales - Triangles n° 3 Vendredi 31 Décembre 2027 Hainaut - 0000 Sur le parcours Diagonales Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 730,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 8,50€ / NON FFBC : 10,00€"
+        }
+      ],
+      "remarque": "Mouscron-Virton-Maaseik-Mouscron /\nParcours libre - délai 61h /\nDépart libre sur le parcours toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10675",
+      "nom": "34 - Diagonales - Triangle n° 4",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "0000",
+      "localite": "Sur le parcours Diagonales Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - 34 - Diagonales - Triangle n° 4 Vendredi 31 Décembre 2027 Hainaut - 0000 Sur le parcours Diagonales Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 700,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 8,50€ / NON FFBC : 10,00€"
+        }
+      ],
+      "remarque": "Mouscron-Virton-Turnhout-Mouscron /\nParcours libre - délai 59h /\nDépart libre sur le parcours toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10676",
+      "nom": "ULTRA Tour du Hainaut",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "0000",
+      "localite": "Sur le parcours Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - ULTRA Tour du Hainaut Vendredi 31 Décembre 2027 Hainaut - 0000 Sur le parcours Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 440,
+          "denivele": "D+ : 4000",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
+        }
+      ],
+      "remarque": "Délai 34h - départ sur le parcours / Peut \nêtre roulé toute l'année / Trace à suivre = \nwww.openrunner.com/route-details/20296975",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10677",
+      "nom": "35 - Diagonales - Triangle n° 5",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "0000",
+      "localite": "Sur le parcours Diagonales Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - 35 - Diagonales - Triangle n° 5 Vendredi 31 Décembre 2027 Hainaut - 0000 Sur le parcours Diagonales Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 625,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 8,50€ / NON FFBC : 10,00€"
+        }
+      ],
+      "remarque": "Ostende-Chimay-Maaseik-Ostende /\nParcours libre - délai 52h /\nDépart libre sur le parcours toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10678",
+      "nom": "36 - Diagonales - Triangle n° 6",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "0000",
+      "localite": "Sur le parcours Diagonales Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - 36 - Diagonales - Triangle n° 6 Vendredi 31 Décembre 2027 Hainaut - 0000 Sur le parcours Diagonales Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 705,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 8,50€ / NON FFBC : 10,00€"
+        }
+      ],
+      "remarque": "Ostende-Chimay-Manderfeld-Ostende /\nParcours libre - délai 59h /\nDépart libre sur le parcours toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10679",
+      "nom": "37 Diagonales - Triangle n° 7",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "0000",
+      "localite": "Sur le parcours Diagonales Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - 37 Diagonales - Triangle n° 7 Vendredi 31 Décembre 2027 Hainaut - 0000 Sur le parcours Diagonales Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "DIAGONALE",
+          "distance_km": 655,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 8,50€ / NON FFBC : 10,00€"
+        }
+      ],
+      "remarque": "Mouscron-Manderfeld-Turnhout-Mouscron /\nParcours libre 54h /\nDépart libre sur le parcours toute l'année",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10680",
+      "nom": "ULTRA Tour du Luxembourg",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "0000",
+      "localite": "Sur le parcours Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - ULTRA Tour du Luxembourg Vendredi 31 Décembre 2027 Hainaut - 0000 Sur le parcours Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 437,
+          "denivele": "D+ : 7500",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
+        }
+      ],
+      "remarque": "Délai 36h - départ sur le parcours / Peut \nêtre roulé toute l'année / Trace à suivre = \nwww.openrunner.com/route-details/19245729",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10699",
+      "nom": "ULTRA Tour province de Namur",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "0000",
+      "localite": "Sur le parcours Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - ULTRA Tour province de Namur Vendredi 31 Décembre 2027 Hainaut - 0000 Sur le parcours Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 432,
+          "denivele": "D+ : 5800",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
+        }
+      ],
+      "remarque": "Délai 35h - départ sur le parcours / Peut\nêtre roulé toute l'année / Trace à suivre =\nwww.openrunner.com/route-details/21590812",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10700",
+      "nom": "ULTRA Tour province de Liège",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "0000",
+      "localite": "Sur le parcours Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - ULTRA Tour province de Liège Vendredi 31 Décembre 2027 Hainaut - 0000 Sur le parcours Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 415,
+          "denivele": "D+ : 4600",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
+        }
+      ],
+      "remarque": "Délai 33h - départ sur le parcours / Peut\nêtre roulé toute l'année / Trace à suivre =\nwww.openrunner.com/route-details/21595495",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10701",
+      "nom": "Tour de Belgique \"Frontières\"",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "0000",
+      "localite": "Sur le parcours Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Tour de Belgique \"Frontières\" Vendredi 31 Décembre 2027 Hainaut - 0000 Sur le parcours Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 1215,
+          "denivele": "D+ : 10500",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 8,00€ / NON FFBC : 9,50€"
+        }
+      ],
+      "remarque": "Délai 120 h - départ sur le parcours / Peut\nêtre roulé toute l'année / Trace à suivre =\nwww.openrunner.com/route-details/17231085",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10702",
+      "nom": "Tour de Belgique - 15 villes relais",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "0000",
+      "localite": "Sur le parcours Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Tour de Belgique - 15 villes relais Vendredi 31 Décembre 2027 Hainaut - 0000 Sur le parcours Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 1000,
+          "denivele": "D+ : 7000",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 8,00€ / NON FFBC : 9,50€"
+        }
+      ],
+      "remarque": "Délai 112h - départ sur le parcours / Peut\nêtre roulé toute l'année / Trace à suivre =",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10704",
+      "nom": "Stoneman Arduenna",
+      "date": "2027-12-31",
+      "province": null,
+      "code_postal": null,
+      "localite": null,
+      "texte_calendrier": "Voir plus + Voir moins - Stoneman Arduenna Vendredi 31 Décembre 2027 Hainaut - . Sur la trace Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Au choix",
+      "adresse": "x Au choix . Sur la trace",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Au choix . Sur la trace",
+      "club": "55201 - FFBC - ULTRA",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 176,
+          "denivele": "D+ : 3900",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 17,50€ / NON FFBC : 19,00€"
+        }
+      ],
+      "remarque": "Pack de démarrage sans contact Stoneman\nvia le téléphone portable / Délai 24 heures /\nUtilisez le code de réduction   BCxSTMN26",
+      "liens_externes": [
+        {
+          "libelle": "velo-liberte.be",
+          "url": "http://velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10705",
+      "nom": "Ourthe and Bike",
+      "date": "2027-12-31",
+      "province": null,
+      "code_postal": null,
+      "localite": null,
+      "texte_calendrier": "Voir plus + Voir moins - Ourthe and Bike Vendredi 31 Décembre 2027 Hainaut - . Sur la trace Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Au choix",
+      "adresse": "x Au choix . Sur la trace",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Au choix . Sur la trace",
+      "club": "55201 - FFBC - ULTRA",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 162,
+          "denivele": "D+ : 3600",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        }
+      ],
+      "remarque": "Avec l'autorisation de la Maison du Tourisme \nde La Roche-en-Ardenne / Délai = 22 heures /\nEnvoi de la trace après inscription",
+      "liens_externes": [
+        {
+          "libelle": "velo-liberte.be",
+          "url": "http://velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10706",
+      "nom": "ULTRA Tour du Brabant Wallon",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "0000",
+      "localite": "Sur le parcours Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - ULTRA Tour du Brabant Wallon Vendredi 31 Décembre 2027 Hainaut - 0000 Sur le parcours Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2208 - FFBC - DIAGONALES",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 320,
+          "denivele": "D+ : 2920",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
+        }
+      ],
+      "remarque": "Délai 23h - départ sur le parcours /\nPeut être roulé toute l'année / Trace =\nEnvoi de la trace après inscription",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10707",
+      "nom": "Ultra VTT en province de Namur",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "5000",
+      "localite": "Sur la Trace Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Ultra VTT en province de Namur Vendredi 31 Décembre 2027 Hainaut - 5000 Sur la Trace Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Province de Namur",
+      "adresse": "x Au choix sur la trace 5000 Sur la Trace",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Au choix sur la trace 5000 Sur la Trace",
+      "club": "55201 - FFBC - ULTRA",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 154,
+          "denivele": "D+ : 2400",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        }
+      ],
+      "remarque": "Partiellement balisé par commune de Burdinne/\nDélai de 20 heures /\nEnvoi de la trace après inscription",
+      "liens_externes": [
+        {
+          "libelle": "velo-liberte.be",
+          "url": "http://velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10708",
+      "nom": "Ultra VTT en Brabant Wallon",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "1400",
+      "localite": "Sur la trace Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Ultra VTT en Brabant Wallon Vendredi 31 Décembre 2027 Hainaut - 1400 Sur la trace Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Brabant Wallon",
+      "adresse": "x Au choix 1400 Sur la trace",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Au choix 1400 Sur la trace",
+      "club": "55201 - FFBC - ULTRA",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 155,
+          "denivele": "D+ : 2350",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        }
+      ],
+      "remarque": "Délai = 20 heures /\n\nEnvoi de la trace après inscription",
+      "liens_externes": [
+        {
+          "libelle": "velo-liberte.be",
+          "url": "http://velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10709",
+      "nom": "Ultra VTT au sud de Namur",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "5000",
+      "localite": "Sur la Trace Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Ultra VTT au sud de Namur Vendredi 31 Décembre 2027 Hainaut - 5000 Sur la Trace Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Province de Namur",
+      "adresse": "x Au choix sur la trace 5000 Sur la Trace",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Au choix sur la trace 5000 Sur la Trace",
+      "club": "55201 - FFBC - ULTRA",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 154,
+          "denivele": "D+ : 3500",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        }
+      ],
+      "remarque": "Départ sur le parcours /\nDélai de 21 heures /\nEnvoi de la trace après inscription",
+      "liens_externes": [
+        {
+          "libelle": "velo-liberte.be",
+          "url": "http://velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10711",
+      "nom": "ULTRA Tour GRAVEL du Brabant Wallon",
+      "date": "2027-12-31",
+      "province": "Liège",
+      "code_postal": "0000",
+      "localite": "Sur le parcours GRAVEL Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - ULTRA Tour GRAVEL du Brabant Wallon Vendredi 31 Décembre 2027 Liège - 0000 Sur le parcours GRAVEL Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Une localité au choix",
+      "adresse": "- sur la trace 0000 Sur le parcours",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- sur la trace 0000 Sur le parcours",
+      "club": "2205 - FFBC - GRAVEL",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 292,
+          "denivele": "D+ : 2700",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        }
+      ],
+      "remarque": "Délai 23h - départ sur le parcours /\nPeut être roulé toute l'année /\nwww.openrunner.com/route-details/22000101",
+      "liens_externes": [
+        {
+          "libelle": "www.velo-liberte.be",
+          "url": "http://www.velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10737",
+      "nom": "Ultra-Tour de la province de Namur",
+      "date": "2027-12-31",
+      "province": "Namur",
+      "code_postal": "5000",
+      "localite": "Namur Permanentes Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Ultra-Tour de la province de Namur Vendredi 31 Décembre 2027 Namur - 5000 Namur Permanentes Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Auberge de Jeunesse de Namur",
+      "adresse": "8 Rue Félicien Rops 5000 Namur",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=8 Rue Félicien Rops 5000 Namur",
+      "club": "55106 - Comité Provincial Namur",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 433,
+          "denivele": "D+ : 5921",
+          "difficulte": null,
+          "horaires": "08h00 - 18h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 4,50€ / NON FFBC : 6,00€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 342,
+          "denivele": "D+ : 4623",
+          "difficulte": null,
+          "horaires": "08h00 - 18h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 4,50€ / NON FFBC : 6,00€"
+        }
+      ],
+      "remarque": "Ultra-C - Permanente du 01/01/27 au 31/12/27\nTotal autonomie-préinscription obligatoire\nTrace GPX via préinscription",
+      "liens_externes": [
+        {
+          "libelle": "www.cyclo-coprovnamur.be",
+          "url": "http://www.cyclo-coprovnamur.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10761",
+      "nom": "Ultra VTT Bouillon",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "6600",
+      "localite": "Sur la trace Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - Ultra VTT Bouillon Vendredi 31 Décembre 2027 Hainaut - 6600 Sur la trace Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Province du Luxembourg",
+      "adresse": "X Au choix 6600 Sur la trace",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=X Au choix 6600 Sur la trace",
+      "club": "55201 - FFBC - ULTRA",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 170,
+          "denivele": "D+ : 3700",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        }
+      ],
+      "remarque": "délai 24 heures - \nEnvoi de la trace après inscription",
+      "liens_externes": [
+        {
+          "libelle": "velo-liberte.be",
+          "url": "http://velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10762",
+      "nom": "ULTRA VTT Des Lacs de l'Eau d'Heure",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "7000",
+      "localite": "Sur la trace Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - ULTRA VTT Des Lacs de l'Eau d'Heure Vendredi 31 Décembre 2027 Hainaut - 7000 Sur la trace Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Province de Hainaut",
+      "adresse": "X Au choix 7000 Sur la trace",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=X Au choix 7000 Sur la trace",
+      "club": "55201 - FFBC - ULTRA",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 174,
+          "denivele": "D+ : 2500",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        }
+      ],
+      "remarque": "délai 23 heures - \nEnvoi de la trace après inscription",
+      "liens_externes": [
+        {
+          "libelle": "velo-liberte.be",
+          "url": "http://velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10763",
+      "nom": "ULTRA VTT des Forts Liégeois",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "4000",
+      "localite": "Sur la trace Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - ULTRA VTT des Forts Liégeois Vendredi 31 Décembre 2027 Hainaut - 4000 Sur la trace Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Province de Liège",
+      "adresse": "x Au choix 4000 Sur la trace",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=x Au choix 4000 Sur la trace",
+      "club": "55201 - FFBC - ULTRA",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 162,
+          "denivele": "D+ : 2535",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        }
+      ],
+      "remarque": "Circuit reliant les 9 forts de la ceinture \nsud de Liège lors de la 2-ème guerre/délai 21\n heures/Envoi de la trace après inscription",
+      "liens_externes": [
+        {
+          "libelle": "velo-liberte.be",
+          "url": "http://velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10764",
+      "nom": "ULTRA VTT d'Anderlues",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "7000",
+      "localite": "Sur la trace Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - ULTRA VTT d'Anderlues Vendredi 31 Décembre 2027 Hainaut - 7000 Sur la trace Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Province de Hainaut",
+      "adresse": "X Au choix 7000 Sur la trace",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=X Au choix 7000 Sur la trace",
+      "club": "55201 - FFBC - ULTRA",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 165,
+          "denivele": "D+ : 2000",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        }
+      ],
+      "remarque": "délai 20 heures - \nEnvoi de la trace après inscription",
+      "liens_externes": [
+        {
+          "libelle": "velo-liberte.be",
+          "url": "http://velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10765",
+      "nom": "ULTRA VTT du Pays des Collines",
+      "date": "2027-12-31",
+      "province": "Hainaut",
+      "code_postal": "7000",
+      "localite": "Sur la trace Randonnée ULTRA \"Randonneur\"",
+      "texte_calendrier": "Voir plus + Voir moins - ULTRA VTT du Pays des Collines Vendredi 31 Décembre 2027 Hainaut - 7000 Sur la trace Randonnée ULTRA \"Randonneur\"",
+      "lieu_depart": "Province de Hainaut",
+      "adresse": "X Au choix 7000 Sur la trace",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=X Au choix 7000 Sur la trace",
+      "club": "55201 - FFBC - ULTRA",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 150,
+          "denivele": "D+ : 1800",
+          "difficulte": null,
+          "horaires": "06h00 - 06h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        }
+      ],
+      "remarque": "délai 19 heures - \nEnvoi de la trace après inscription",
+      "liens_externes": [
+        {
+          "libelle": "velo-liberte.be",
+          "url": "http://velo-liberte.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    }
+  ]
+}

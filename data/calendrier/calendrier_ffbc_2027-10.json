@@ -1,0 +1,2041 @@
+{
+  "source": "https://www.velo-liberte.be/calendrier/",
+  "mois_extrait": "2027-10",
+  "date_extraction": "2026-11-13",
+  "nombre_randonnées": 34,
+  "randonnées": [
+    {
+      "id": "9948",
+      "nom": "VTT NOCTURNE Brasserie Dupont",
+      "date": "2027-10-01",
+      "province": "Hainaut",
+      "code_postal": "7904",
+      "localite": "TOURPES",
+      "texte_calendrier": "Voir plus + Voir moins - VTT NOCTURNE Brasserie Dupont Vendredi 01 Octobre 2027 Hainaut - 7904 TOURPES",
+      "lieu_depart": "Brasserie Dupont",
+      "adresse": "5 Rue Basse 7904 TOURPES",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=5 Rue Basse 7904 TOURPES",
+      "club": "8618 - ROYALE UNION AUDAX TOURNAI",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "19h00 - 21h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 25,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "19h00 - 21h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 12,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "19h00 - 21h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 8,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "19h00 - 21h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 6,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "19h00 - 21h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Bike wash - inscription sur place",
+      "liens_externes": [
+        {
+          "libelle": "www.royalaudaxtournai.be",
+          "url": "http://www.royalaudaxtournai.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10284",
+      "nom": "LA CLÔTURE CCB",
+      "date": "2027-10-02",
+      "province": "Hainaut",
+      "code_postal": "6200",
+      "localite": "Bouffioulx",
+      "texte_calendrier": "Voir plus + Voir moins - LA CLÔTURE CCB Samedi 02 Octobre 2027 Hainaut - 6200 Bouffioulx",
+      "lieu_depart": "Ecole de la Blanche Borne",
+      "adresse": "Rue Dufays     6200 Bouffioulx 6200 Bouffioulx",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query= Rue Dufays     6200 Bouffioulx 6200 Bouffioulx",
+      "club": "3606 - CYCLO-CLUB BOUFFIOULX",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 80,
+          "denivele": "D+ : 794",
+          "difficulte": null,
+          "horaires": "08h30 - 09h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 65,
+          "denivele": "D+ : 597",
+          "difficulte": null,
+          "horaires": "08h30 - 09h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 40,
+          "denivele": "D+ : 337",
+          "difficulte": null,
+          "horaires": "08h30 - 09h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "parking - Fléché\nRavitos au départ",
+      "liens_externes": [
+        {
+          "libelle": "Facebook : Cyclo club Bouffioulx",
+          "url": "http://Facebook : Cyclo club Bouffioulx"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10399",
+      "nom": "Ans -Alken - Ans",
+      "date": "2027-10-02",
+      "province": "Liège",
+      "code_postal": "4431",
+      "localite": "ANS",
+      "texte_calendrier": "Voir plus + Voir moins - Ans -Alken - Ans Samedi 02 Octobre 2027 Liège - 4431 ANS",
+      "lieu_depart": "hall des sports H.Germis",
+      "adresse": "1 rue des Charrons 4431 ANS",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 rue des Charrons 4431 ANS",
+      "club": "1405 - ANS VELO CLUB",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 86,
+          "denivele": "D+ : 402",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 60,
+          "denivele": "D+ : 480",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "inscriptions sur place + en ligne\n60 km : collation au départ\n parcours fléchés au sol + gpx",
+      "liens_externes": [
+        {
+          "libelle": "www.facebook.com/cycloans",
+          "url": "http://www.facebook.com/cycloans"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10426",
+      "nom": "Randonnée Souvenir Jimmy Duquennoy",
+      "date": "2027-10-02",
+      "province": "Hainaut",
+      "code_postal": "7540",
+      "localite": "RUMILLIES",
+      "texte_calendrier": "Voir plus + Voir moins - Randonnée Souvenir Jimmy Duquennoy Samedi 02 Octobre 2027 Hainaut - 7540 RUMILLIES",
+      "lieu_depart": "Ecole verte et Sacré Coeur",
+      "adresse": "45 Rue de la Solitude 7540 RUMILLIES",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=45 Rue de la Solitude 7540 RUMILLIES",
+      "club": "3615 - LES MORDUS DU VELO",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 75,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 25,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 13,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 10,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 5,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": "1",
+          "tarif": null
+        }
+      ],
+      "remarque": "Parrainé par asbl Mordus du Vélo Wiers",
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10819",
+      "nom": "La rando Corso",
+      "date": "2027-10-02",
+      "province": "Namur",
+      "code_postal": "5350",
+      "localite": "Ohey",
+      "texte_calendrier": "Voir plus + Voir moins - La rando Corso Samedi 02 Octobre 2027 Namur - 5350 Ohey",
+      "lieu_depart": "Cyclo Ohey",
+      "adresse": "115 rue de Reppe  5350 Ohey",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=115 rue de Reppe  5350 Ohey",
+      "club": "2603 - CYCL'OHEY",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 80,
+          "denivele": "D+ : 900",
+          "difficulte": null,
+          "horaires": "08h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 60,
+          "denivele": "D+ : 650",
+          "difficulte": null,
+          "horaires": "08h30 - 11h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "FAMILY",
+          "distance_km": 45,
+          "denivele": "D+ : 350",
+          "difficulte": null,
+          "horaires": "08h30 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "EASY",
+          "distance_km": 10,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h30 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Accueil sur place\nFeuille de route - fléchage au sol-GPX",
+      "liens_externes": [
+        {
+          "libelle": "https://www.cyclohey.be",
+          "url": "http://https://www.cyclohey.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9949",
+      "nom": "VTT Brasserie Dupont",
+      "date": "2027-10-03",
+      "province": "Hainaut",
+      "code_postal": "7904",
+      "localite": "TOURPES",
+      "texte_calendrier": "Voir plus + Voir moins - VTT Brasserie Dupont Dimanche 03 Octobre 2027 Hainaut - 7904 TOURPES",
+      "lieu_depart": "Brasserie Dupont",
+      "adresse": "5 Rue Basse 7904 TOURPES",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=5 Rue Basse 7904 TOURPES",
+      "club": "8618 - ROYALE UNION AUDAX TOURNAI",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 60,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "3",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "3",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 25,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        }
+      ],
+      "remarque": "Ravito - Vestiaire - Bike-Wash - Parking -\ninscription sur place",
+      "liens_externes": [
+        {
+          "libelle": "www.royalaudaxtournai.be",
+          "url": "http://www.royalaudaxtournai.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10109",
+      "nom": "La Condruzienne",
+      "date": "2027-10-03",
+      "province": "Namur",
+      "code_postal": "5100",
+      "localite": "Naninne",
+      "texte_calendrier": "Voir plus + Voir moins - La Condruzienne Dimanche 03 Octobre 2027 Namur - 5100 Naninne",
+      "lieu_depart": "Terrain de football de Naninne",
+      "adresse": "Rue Sainte Anne 5100 Naninne",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query= Rue Sainte Anne 5100 Naninne",
+      "club": "3415 - CYCLO NANINNE",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 76,
+          "denivele": "D+ : 798",
+          "difficulte": null,
+          "horaires": "08h00 - 09h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 55,
+          "denivele": "D+ : 594",
+          "difficulte": null,
+          "horaires": "08h00 - 10h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique - Préinscriptions possibles\nFléchage au sol - Feuille de route\nGPX disponibles J-24H",
+      "liens_externes": [
+        {
+          "libelle": "cyclonaninne.be",
+          "url": "http://cyclonaninne.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10192",
+      "nom": "L'Automnale",
+      "date": "2027-10-03",
+      "province": "Luxembourg",
+      "code_postal": "6740",
+      "localite": "SAINTE-MARIE-SUR-SEMOIS",
+      "texte_calendrier": "Voir plus + Voir moins - L'Automnale Dimanche 03 Octobre 2027 Luxembourg - 6740 SAINTE-MARIE-SUR-SEMOIS",
+      "lieu_depart": "ANCIEN LAVOIR",
+      "adresse": "1 Rue du Magenot 6740 SAINTE-MARIE-SUR-SEMOIS",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Rue du Magenot 6740 SAINTE-MARIE-SUR-SEMOIS",
+      "club": "3417 - Ste-MARIE/SEMOIS Les Cyclos de la Gaume",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 59,
+          "denivele": "D+ : 435",
+          "difficulte": null,
+          "horaires": "08h00 - 09h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 32,
+          "denivele": "D+ : 251",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        }
+      ],
+      "remarque": "Inscriptions sur place - Bar - préinscription\nGratuit <16 ans",
+      "liens_externes": [
+        {
+          "libelle": "www.facebook.com/groups/267311258940063/?ref=share",
+          "url": "http://www.facebook.com/groups/267311258940063/?ref=share"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10193",
+      "nom": "BINCHE-CHIMAY-BINCHE",
+      "date": "2027-10-03",
+      "province": "Hainaut",
+      "code_postal": "7130",
+      "localite": "BINCHE",
+      "texte_calendrier": "Voir plus + Voir moins - BINCHE-CHIMAY-BINCHE Dimanche 03 Octobre 2027 Hainaut - 7130 BINCHE",
+      "lieu_depart": "Musée du Masque cafétaria",
+      "adresse": "10 rue St Moustier 7130 BINCHE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=10 rue St Moustier 7130 BINCHE",
+      "club": "9011 - Royale Amicale Cycliste Binchoise",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 130,
+          "denivele": "D+ : 1178",
+          "difficulte": null,
+          "horaires": "07h00 - 09h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 4,50€ / NON FFBC : 6,00€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 75,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 16,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h00 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 1,50€ / NON FFBC : 3,00€"
+        }
+      ],
+      "remarque": "Le Dimanche avant la course des Pros, sur le \n parcours des Pros - ticket boisson 1,50€ à \nl'inscription - moins de 16 ans: gratuit",
+      "liens_externes": [
+        {
+          "libelle": "www.facebook.com/people/Royale-Amicale-Cycliste-Binchoise/61554921991143/",
+          "url": "http://www.facebook.com/people/Royale-Amicale-Cycliste-Binchoise/61554921991143/"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10606",
+      "nom": "Diamond challenge 4",
+      "date": "2027-10-06",
+      "province": "Namur",
+      "code_postal": "5590",
+      "localite": "Ciney",
+      "texte_calendrier": "Voir plus + Voir moins - Diamond challenge 4 Mercredi 06 Octobre 2027 Namur - 5590 Ciney",
+      "lieu_depart": "Diamond Bar",
+      "adresse": "14 place Monseu 5590 Ciney",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=14 place Monseu 5590 Ciney",
+      "club": "3213 - CVC CINEY",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "11h00 - 14h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique - Accueil sur place\nTirage de la tombola\nTrace au sol-GPX-Feuille de route",
+      "liens_externes": [
+        {
+          "libelle": "www.cyclos-emptinnois.com",
+          "url": "http://www.cyclos-emptinnois.com"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10386",
+      "nom": "Sortie du Jeudi n° 38",
+      "date": "2027-10-07",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n° 38 Jeudi 07 Octobre 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9941",
+      "nom": "Vedrin-Hélécine",
+      "date": "2027-10-09",
+      "province": "Namur",
+      "code_postal": "5020",
+      "localite": "VEDRIN Namuroise",
+      "texte_calendrier": "Voir plus + Voir moins - Vedrin-Hélécine Samedi 09 Octobre 2027 Namur - 5020 VEDRIN Namuroise",
+      "lieu_depart": "Salle St Eloi",
+      "adresse": "29 Rue du Blanc Bois 5020 VEDRIN",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 5020 VEDRIN",
+      "club": "3203 - VC VEDRIN",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 100,
+          "denivele": "D+ : 578",
+          "difficulte": null,
+          "horaires": "08h00 - 09h30",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 73,
+          "denivele": "D+ : 436",
+          "difficulte": null,
+          "horaires": "08h00 - 10h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 49,
+          "denivele": "D+ : 296",
+          "difficulte": null,
+          "horaires": "08h00 - 11h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 22,
+          "denivele": "D+ : 138",
+          "difficulte": null,
+          "horaires": "08h00 - 12h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ETOILE",
+          "distance_km": 0,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 12h30",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique - Préinscription - Feuille de route\nMarques au sol sauf parties en Flandres\nGPX - Assistance GPS",
+      "liens_externes": [
+        {
+          "libelle": "vcvedrin.be",
+          "url": "http://vcvedrin.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10175",
+      "nom": "LA BURDINALE - CLOTURE LIEGEOISE",
+      "date": "2027-10-09",
+      "province": "Liège",
+      "code_postal": "4347",
+      "localite": "FEXHE-LE-HAUT-CLOCHER Brevet à Dénivelé",
+      "texte_calendrier": "Voir plus + Voir moins - LA BURDINALE - CLOTURE LIEGEOISE Samedi 09 Octobre 2027 Liège - 4347 FEXHE-LE-HAUT-CLOCHER Brevet à Dénivelé",
+      "lieu_depart": "Local : CTG Fexhe a.s.b.l.",
+      "adresse": "7 Rue de Freloux 4347 FEXHE-LE-HAUT-CLOCHER",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=7 Rue de Freloux 4347 FEXHE-LE-HAUT-CLOCHER",
+      "club": "9917 - CTG Fexhe a.s.b.l.",
+      "parcours": [
+        {
+          "type": "BAD",
+          "distance_km": 85,
+          "denivele": "D+ : 890",
+          "difficulte": null,
+          "horaires": "08h00 - 09h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 65,
+          "denivele": "D+ : 520",
+          "difficulte": null,
+          "horaires": "08h30 - 09h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "EASY",
+          "distance_km": 50,
+          "denivele": "D+ : 290",
+          "difficulte": null,
+          "horaires": "08h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Tombola \nRandos dans le parc naturel de la Burdinale. \nAccès, E40 sortie 30 - E42 sortie 5.",
+      "liens_externes": [
+        {
+          "libelle": "www.ctg-fexhe.be",
+          "url": "http://www.ctg-fexhe.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9913",
+      "nom": "LA ALAIN LEROY.",
+      "date": "2027-10-10",
+      "province": "Hainaut",
+      "code_postal": "6150",
+      "localite": "ANDERLUES",
+      "texte_calendrier": "Voir plus + Voir moins - LA ALAIN LEROY. Dimanche 10 Octobre 2027 Hainaut - 6150 ANDERLUES",
+      "lieu_depart": "Salle omnisports",
+      "adresse": "24 Rue de Maubeuge  6150 ANDERLUES",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=24 Rue de Maubeuge  6150 ANDERLUES",
+      "club": "1401 -  Cycling Team LRY ANDERLUES",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 130,
+          "denivele": "D+ : 1100",
+          "difficulte": null,
+          "horaires": "08h00 - 09h30",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 115,
+          "denivele": "D+ : 980",
+          "difficulte": null,
+          "horaires": "08h00 - 09h30",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 105,
+          "denivele": "D+ : 925",
+          "difficulte": null,
+          "horaires": "08h00 - 09h30",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 85,
+          "denivele": "D+ : 599",
+          "difficulte": null,
+          "horaires": "00h08 - 09h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 85,
+          "denivele": "D+ : 621",
+          "difficulte": null,
+          "horaires": "08h00 - 09h30",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 70,
+          "denivele": "D+ : 474",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 60,
+          "denivele": "D+ : 383",
+          "difficulte": null,
+          "horaires": "08h00 - 09h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 55,
+          "denivele": "D+ : 326",
+          "difficulte": null,
+          "horaires": "08h00 - 10h30",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 35,
+          "denivele": "D+ : 292",
+          "difficulte": null,
+          "horaires": "08h00 - 10h30",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 18,
+          "denivele": "D+ : 163",
+          "difficulte": null,
+          "horaires": "08h00 - 10h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 13,
+          "denivele": "D+ : 82",
+          "difficulte": null,
+          "horaires": "08h00 - 10h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 8,
+          "denivele": "D+ : 35",
+          "difficulte": null,
+          "horaires": "08h00 - 10h30",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Parcours et routes campagnards et boisés -\nfranco belge-Fléchage/gravel:GPX- hors des \ngrands axes routiers - 35 km:ravito au départ",
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9934",
+      "nom": "Chicorée Classic",
+      "date": "2027-10-10",
+      "province": null,
+      "code_postal": "9310",
+      "localite": "ORCHIES - France",
+      "texte_calendrier": "Voir plus + Voir moins - Chicorée Classic Dimanche 10 Octobre 2027 Hainaut - 59310 ORCHIES - France",
+      "lieu_depart": "Restaurant scolaire",
+      "adresse": "- Rue Jules Roch 59310 ORCHIES - France",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=- Rue Jules Roch 59310 ORCHIES - France",
+      "club": "3327 - CYCLO CLUB ORCHIES",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 100,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 80,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 70,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 55,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "3",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 40,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 25,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 25,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 10,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        }
+      ],
+      "remarque": "Boisson chaude *Leroux* offerte au départ\nCollation à l'arrivée\nGravel  via GPS",
+      "liens_externes": [
+        {
+          "libelle": "www.ccorchies.fr",
+          "url": "http://www.ccorchies.fr"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9952",
+      "nom": "Audax Jean-Pierre HANCE",
+      "date": "2027-10-10",
+      "province": "Namur",
+      "code_postal": "5020",
+      "localite": "VEDRIN",
+      "texte_calendrier": "Voir plus + Voir moins - Audax Jean-Pierre HANCE Dimanche 10 Octobre 2027 Namur - 5020 VEDRIN",
+      "lieu_depart": "Salle St Eloi",
+      "adresse": "29 Rue du Blanc Bois 5020 VEDRIN",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=29 Rue du Blanc Bois 5020 VEDRIN",
+      "club": "3203 - VC VEDRIN",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 62,
+          "denivele": "D+ : 400",
+          "difficulte": null,
+          "horaires": "08h00 - 09h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique - Préinscription - Uniquement GPS \nFeuille route - Social Ride à 9h00\nRépartition progressive en sous-groupes",
+      "liens_externes": [
+        {
+          "libelle": "vcvedrin.be",
+          "url": "http://vcvedrin.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10461",
+      "nom": "VTT urbain et forestier",
+      "date": "2027-10-10",
+      "province": "Luxembourg",
+      "code_postal": "6700",
+      "localite": "Arlon",
+      "texte_calendrier": "Voir plus + Voir moins - VTT urbain et forestier Dimanche 10 Octobre 2027 Luxembourg - 6700 Arlon",
+      "lieu_depart": "Place Léopold",
+      "adresse": "1 Place Léopold 6700 Arlon",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Place Léopold 6700 Arlon",
+      "club": "1512 - ARLON Promovélo Lorraine asbl",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 35,
+          "denivele": "D+ : 450",
+          "difficulte": "Moyen",
+          "horaires": "08h00 - 10h30",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 15,
+          "denivele": "D+ : 250",
+          "difficulte": "Facile",
+          "horaires": "08h00 - 10h30",
+          "ravitaillement": "1",
+          "tarif": null
+        }
+      ],
+      "remarque": "Organisé par le Lion's Club d'Arlon \nVTT urbain de 15 km au coeur de la ville\nVTT 35 km avec une boucle forestière en plus",
+      "liens_externes": [
+        {
+          "libelle": "www.promovelo.be",
+          "url": "http://www.promovelo.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10640",
+      "nom": "Randonnée de clôture",
+      "date": "2027-10-10",
+      "province": "Hainaut",
+      "code_postal": "7700",
+      "localite": "Mouscron",
+      "texte_calendrier": "Voir plus + Voir moins - Randonnée de clôture Dimanche 10 Octobre 2027 Hainaut - 7700 Mouscron",
+      "lieu_depart": "CHEZ NOUS",
+      "adresse": "0 RUE COTONNIERE 7700 Mouscron",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=0 RUE COTONNIERE 7700 Mouscron",
+      "club": "8908 - ROYAL CYCLO-CLUB MOUSCRON",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 85,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 80,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 09h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 15,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 8,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "45 km fléché / 80-85 km non fléchés (GPX)\n85 km : passage sur les pavés de l'Arbre\nPassage par le vélodrome de Roubaix (ravitos)",
+      "liens_externes": [
+        {
+          "libelle": "cycloclubmouscron@gmail.com",
+          "url": "http://cycloclubmouscron@gmail.com"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10387",
+      "nom": "Sortie du Jeudi n° 39",
+      "date": "2027-10-14",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n° 39 Jeudi 14 Octobre 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10786",
+      "nom": "10ème week-end des Potirons",
+      "date": "2027-10-16",
+      "province": "Hainaut",
+      "code_postal": "7520",
+      "localite": "Templeuve",
+      "texte_calendrier": "Voir plus + Voir moins - 10ème week-end des Potirons Samedi 16 Octobre 2027 Hainaut - 7520 Templeuve",
+      "lieu_depart": "Légumes Grégoire Manche",
+      "adresse": "Bout de la rue rue des Combattants de Templeuve 7520 Templeuve",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=Bout de la rue rue des Combattants de Templeuve 7520 Templeuve",
+      "club": "8618 - ROYALE UNION AUDAX TOURNAI",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 75,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 60,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 40,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "FAMILY",
+          "distance_km": 30,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 10,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 5,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Inscription sur place - circuit fléché - ravi\nto",
+      "liens_externes": [
+        {
+          "libelle": "www.royalaudaxtournai.be",
+          "url": "http://www.royalaudaxtournai.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10402",
+      "nom": "La route des Seigneurs d'Orbais",
+      "date": "2027-10-17",
+      "province": "Namur",
+      "code_postal": "5150",
+      "localite": "FLOREFFE",
+      "texte_calendrier": "Voir plus + Voir moins - La route des Seigneurs d'Orbais Dimanche 17 Octobre 2027 Namur - 5150 FLOREFFE",
+      "lieu_depart": "Café chez Battista",
+      "adresse": "16 Rue Auguste Renard 5150 FLOREFFE",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=16 Rue Auguste Renard 5150 FLOREFFE",
+      "club": "3620 - Cyclo Club Invictus",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 51,
+          "denivele": "D+ : 443",
+          "difficulte": null,
+          "horaires": "08h30 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 32,
+          "denivele": "D+ : 336",
+          "difficulte": null,
+          "horaires": "08h30 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique \nPréinscription souhaitée et Accueil sur place\nMarquage au sol-Trace GPX-Feuille de route",
+      "liens_externes": [
+        {
+          "libelle": "www.cyclo-club-invictus.be",
+          "url": "http://www.cyclo-club-invictus.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10565",
+      "nom": "La Rando des Collines",
+      "date": "2027-10-17",
+      "province": "Hainaut",
+      "code_postal": "7911",
+      "localite": "Frasnes-lez-Buissenal",
+      "texte_calendrier": "Voir plus + Voir moins - La Rando des Collines Dimanche 17 Octobre 2027 Hainaut - 7911 Frasnes-lez-Buissenal",
+      "lieu_depart": "Salle Les Arcades",
+      "adresse": "1 Routes de Lessines 7911 Frasnes-lez-Buissenal",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Routes de Lessines 7911 Frasnes-lez-Buissenal",
+      "club": "2303 - VTT Club des Collines",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 60,
+          "denivele": "D+ : 1000",
+          "difficulte": null,
+          "horaires": "07h30 - 09h30",
+          "ravitaillement": "3",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 50,
+          "denivele": "D+ : 900",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 40,
+          "denivele": "D+ : 750",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 30,
+          "denivele": "D+ : 400",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 15,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 12h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 0,50€ / NON FFBC : 2,00€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 10,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 12h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 0,50€ / NON FFBC : 2,00€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 5,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 12h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 0,50€ / NON FFBC : 2,00€"
+        }
+      ],
+      "remarque": "Ravitaillements sur le parcours - \nbike wash - buvette et petite restauration - tarif marche: 2 euro",
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10780",
+      "nom": "10ème week-end des Potirons",
+      "date": "2027-10-17",
+      "province": "Hainaut",
+      "code_postal": "7520",
+      "localite": "Templeuve",
+      "texte_calendrier": "Voir plus + Voir moins - 10ème week-end des Potirons Dimanche 17 Octobre 2027 Hainaut - 7520 Templeuve",
+      "lieu_depart": "Légumes Grégoire Manche",
+      "adresse": "Bout de la rue rue des Combattants de Templeuve 7520 Templeuve",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=Bout de la rue rue des Combattants de Templeuve 7520 Templeuve",
+      "club": "8618 - ROYALE UNION AUDAX TOURNAI",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 75,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 60,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": "1",
+          "tarif": null
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 40,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "FAMILY",
+          "distance_km": 30,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 10,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 5,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 14h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Inscription sur place - circuit fléché - ravi\nto",
+      "liens_externes": [
+        {
+          "libelle": "www.royalaudaxtournai.be",
+          "url": "http://www.royalaudaxtournai.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10791",
+      "nom": "VTT d'Automne",
+      "date": "2027-10-17",
+      "province": "Luxembourg",
+      "code_postal": "6769",
+      "localite": "MEIX-DEVANT-VIRTON",
+      "texte_calendrier": "Voir plus + Voir moins - VTT d'Automne Dimanche 17 Octobre 2027 Luxembourg - 6769 MEIX-DEVANT-VIRTON",
+      "lieu_depart": "Salle Cercle Musical",
+      "adresse": "1 Ruelle Perdue 6769 MEIX-DEVANT-VIRTON",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Ruelle Perdue 6769 MEIX-DEVANT-VIRTON",
+      "club": "8920 - Meix-Dt-Virton Cercle Musical",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 42,
+          "denivele": "D+ : 850",
+          "difficulte": "Moyen",
+          "horaires": "07h00 - 11h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 35,
+          "denivele": "D+ : 750",
+          "difficulte": "Moyen",
+          "horaires": "07h00 - 11h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 30,
+          "denivele": "D+ : 550",
+          "difficulte": "Moyen",
+          "horaires": "07h00 - 11h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 20,
+          "denivele": "D+ : 250",
+          "difficulte": "Moyen",
+          "horaires": "07h00 - 11h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        }
+      ],
+      "remarque": null,
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10388",
+      "nom": "Sortie du Jeudi n° 40",
+      "date": "2027-10-21",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n° 40 Jeudi 21 Octobre 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9981",
+      "nom": "Clôture des Namuroises",
+      "date": "2027-10-23",
+      "province": "Namur",
+      "code_postal": "5150",
+      "localite": "Floreffe Namuroise",
+      "texte_calendrier": "Voir plus + Voir moins - Clôture des Namuroises Samedi 23 Octobre 2027 Namur - 5150  Floreffe Namuroise",
+      "lieu_depart": "Moulin Brasserie Abbaye de Floreffe",
+      "adresse": "7 rue du Séminaire 5150  Floreffe",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=7 rue du Séminaire 5150  Floreffe",
+      "club": "55106 - Comité Provincial Namur",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 90,
+          "denivele": "D+ : 826",
+          "difficulte": null,
+          "horaires": "08h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 50,
+          "denivele": "D+ : 415",
+          "difficulte": null,
+          "horaires": "08h30 - 11h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "EASY",
+          "distance_km": 35,
+          "denivele": "D+ : 305",
+          "difficulte": null,
+          "horaires": "08h30 - 12h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ETOILE",
+          "distance_km": 0,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h30 - 12h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique - Accueil sur place 23/10\nPréinscription du 18/10 au 23/ 10\nMarquage au sol-Trace GPX-Feuille de route",
+      "liens_externes": [
+        {
+          "libelle": "www.cyclo-coprovnamur.be",
+          "url": "http://www.cyclo-coprovnamur.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10549",
+      "nom": "Semaine FFBC à Vaison - 23au30/10",
+      "date": "2027-10-23",
+      "province": null,
+      "code_postal": "1212",
+      "localite": "Chemin de Saume Longue 84110 Vaison-la-Romaine (France)",
+      "texte_calendrier": "Voir plus + Voir moins - Semaine FFBC à Vaison - 23au30/10 Samedi 23 Octobre 2027 Luxembourg - 84110 Vaison-la-Romaine (France)",
+      "lieu_depart": "Village Vacances Leo Lagrange",
+      "adresse": "1212 Chemin de Saume Longue 84110 Vaison-la-Romaine (France)",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1212 Chemin de Saume Longue 84110 Vaison-la-Romaine (France)",
+      "club": "55105 - F.F.B.C. Luxembourg",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 13h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 499,00€ / NON FFBC : 500,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 13h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 499,00€ / NON FFBC : 500,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 30,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 13h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 499,00€ / NON FFBC : 500,50€"
+        }
+      ],
+      "remarque": "8jours/7nuits en pension complete\nSorties groupées selon participants et selon\ndistance/pratique : libre de participer.",
+      "liens_externes": [
+        {
+          "libelle": "https://www.velo-liberte.be/trouvez-un-club/",
+          "url": "http://https://www.velo-liberte.be/trouvez-un-club/"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10771",
+      "nom": "Sem FFBC à Vaison - chambre SEUL",
+      "date": "2027-10-23",
+      "province": null,
+      "code_postal": "1212",
+      "localite": "Chemin de Saume Longue 84110 Vaison-la-Romaine (France)",
+      "texte_calendrier": "Voir plus + Voir moins - Sem FFBC à Vaison - chambre SEUL Samedi 23 Octobre 2027 Luxembourg - 84110 Vaison-la-Romaine (France)",
+      "lieu_depart": "Village Vacances Leo Lagrange",
+      "adresse": "1212 Chemin de Saume Longue 84110 Vaison-la-Romaine (France)",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1212 Chemin de Saume Longue 84110 Vaison-la-Romaine (France)",
+      "club": "55105 - F.F.B.C. Luxembourg",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 13h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 699,00€ / NON FFBC : 700,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 13h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 699,00€ / NON FFBC : 700,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 30,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 13h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 699,00€ / NON FFBC : 700,50€"
+        }
+      ],
+      "remarque": "8jours/7nuits en pension complète avec\nsupplément 200euros en chambre SEUL\n(chambres limitées)",
+      "liens_externes": [
+        {
+          "libelle": "https://www.velo-liberte.be/trouvez-un-club/",
+          "url": "http://https://www.velo-liberte.be/trouvez-un-club/"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9915",
+      "nom": "Couleurs d'Automne",
+      "date": "2027-10-24",
+      "province": "Namur",
+      "code_postal": "5150",
+      "localite": "Floreffe Namuroise",
+      "texte_calendrier": "Voir plus + Voir moins - Couleurs d'Automne Dimanche 24 Octobre 2027 Namur - 5150  Floreffe Namuroise",
+      "lieu_depart": "Moulin Brasserie Abbaye de Floreffe",
+      "adresse": "7 rue du Séminaire 5150  Floreffe",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=7 rue du Séminaire 5150  Floreffe",
+      "club": "55106 - Comité Provincial Namur",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 80,
+          "denivele": "D+ : 606",
+          "difficulte": null,
+          "horaires": "08h30 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "EASY",
+          "distance_km": 50,
+          "denivele": "D+ : 415",
+          "difficulte": null,
+          "horaires": "08h30 - 11h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        },
+        {
+          "type": "ETOILE",
+          "distance_km": 0,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h30 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        }
+      ],
+      "remarque": "Classique - Accueil sur place 24/10\nPréinscription du 19/10 au 24/10\nMarquage au sol-Trace GPX-Feuille de route",
+      "liens_externes": [
+        {
+          "libelle": "www.cyclo-coprovnamur.be",
+          "url": "http://www.cyclo-coprovnamur.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10389",
+      "nom": "Sortie du Jeudi n° 41",
+      "date": "2027-10-28",
+      "province": "Hainaut",
+      "code_postal": "7334",
+      "localite": "HAUTRAGE  Centre",
+      "texte_calendrier": "Voir plus + Voir moins - Sortie du Jeudi n° 41 Jeudi 28 Octobre 2027 Hainaut - 7334 HAUTRAGE  Centre",
+      "lieu_depart": "Maison Villageoise",
+      "adresse": "44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=44 Place d'Hautrage 7334 HAUTRAGE  Centre",
+      "club": "9816 - CYCLO SENIORS",
+      "parcours": [
+        {
+          "type": "EASY",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h30 - 13h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "EASY",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "13h35 - 13h35",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Randonnée du jeudi\nDépart groupé à 13h30\nVoir programme du club pour le circuit",
+      "liens_externes": [
+        {
+          "libelle": "\"Les Seniors \" sur Facebook",
+          "url": "http://"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9950",
+      "nom": "La Route du Péket",
+      "date": "2027-10-30",
+      "province": "Namur",
+      "code_postal": "5020",
+      "localite": "VEDRIN",
+      "texte_calendrier": "Voir plus + Voir moins - La Route du Péket Samedi 30 Octobre 2027 Namur - 5020 VEDRIN",
+      "lieu_depart": "Ecole communale",
+      "adresse": "Rue Adolphe Parmentier, 8 5020 VEDRIN",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query= Rue Adolphe Parmentier, 8 5020 VEDRIN",
+      "club": "3212 - SPEEDY CLUB NAMUR",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 85,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 11h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "EASY",
+          "distance_km": 55,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "09h00 - 11h00",
+          "ravitaillement": null,
+          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
+        }
+      ],
+      "remarque": "Classique - Accueil - Parcours facile \nAccueil - Verre de peket offert à l'arrivée\nTrace au sol - GPX - Feuille de route",
+      "liens_externes": [
+        {
+          "libelle": "www.speedyclubnamur.net",
+          "url": "http://www.speedyclubnamur.net"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9920",
+      "nom": "Jubaru Bikers VTT Gravel",
+      "date": "2027-10-31",
+      "province": "Hainaut",
+      "code_postal": "7543",
+      "localite": "MOURCOURT",
+      "texte_calendrier": "Voir plus + Voir moins - Jubaru Bikers VTT Gravel Dimanche 31 Octobre 2027 Hainaut - 7543 MOURCOURT",
+      "lieu_depart": "Maison de village de Mourcourt",
+      "adresse": "51 Rue du Vieux Comté 7543 MOURCOURT",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=51 Rue du Vieux Comté 7543 MOURCOURT",
+      "club": "8618 - ROYALE UNION AUDAX TOURNAI",
+      "parcours": [
+        {
+          "type": "GRAVEL",
+          "distance_km": 95,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 09h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 75,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 60,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 09h30",
+          "ravitaillement": "3",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 45,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 30,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 20,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
+        }
+      ],
+      "remarque": "Bike-Wash/Circuit fléché uniquement sur 20 km\net 30 km/Fichier GPX après préinscription\njusqu'au 30 oct 18h ou QR code sur place",
+      "liens_externes": [
+        {
+          "libelle": "www.royalaudaxtournai.be",
+          "url": "http://www.royalaudaxtournai.be"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9936",
+      "nom": "La Deren'",
+      "date": "2027-10-31",
+      "province": "Luxembourg",
+      "code_postal": "6720",
+      "localite": "Habay-la-Neuve",
+      "texte_calendrier": "Voir plus + Voir moins - La Deren' Dimanche 31 Octobre 2027 Luxembourg - 6720 Habay-la-Neuve",
+      "lieu_depart": "Salle le Rosaire",
+      "adresse": "1 Rue du Rosaire 6720 Habay-la-Neuve",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Rue du Rosaire 6720 Habay-la-Neuve",
+      "club": "2104 - CYCLO CLUB HABAY",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 70,
+          "denivele": "D+ : 740",
+          "difficulte": null,
+          "horaires": "08h00 - 09h30",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 55,
+          "denivele": "D+ : 1100",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "2",
+          "tarif": "FFBC : 4,50€ / NON FFBC : 6,00€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 47,
+          "denivele": "D+ : 403",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 37,
+          "denivele": "D+ : 325",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 36,
+          "denivele": "D+ : 770",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 33,
+          "denivele": "D+ : 260",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 2,00€ / NON FFBC : 3,50€"
+        },
+        {
+          "type": "VTT",
+          "distance_km": 23,
+          "denivele": "D+ : 430",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": "1",
+          "tarif": "FFBC : 3,50€ / NON FFBC : 5,00€"
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 11,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 10h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 6,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 10h30",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": null,
+      "liens_externes": [
+        {
+          "libelle": "https://habaysienne.cchabay.be/",
+          "url": "http://https://habaysienne.cchabay.be/"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10823",
+      "nom": "Marche et Trail des Bonniers",
+      "date": "2027-10-31",
+      "province": "Hainaut",
+      "code_postal": "6540",
+      "localite": "LOBBES",
+      "texte_calendrier": "Voir plus + Voir moins - Marche et Trail des Bonniers Dimanche 31 Octobre 2027 Hainaut - 6540 LOBBES",
+      "lieu_depart": "TAVERNE BRASSERIE DES BONNIERS",
+      "adresse": "6/1 RUE D'ANDERLUES 6540  6540 LOBBES",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=6/1 RUE D'ANDERLUES 6540  6540 LOBBES",
+      "club": "1401 -  Cycling Team LRY ANDERLUES",
+      "parcours": [
+        {
+          "type": "MARCHE",
+          "distance_km": 20,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 11h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 16,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 11h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 12,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 11h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 9,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 11h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": null,
+      "liens_externes": [],
+      "latitude": null,
+      "longitude": null
+    }
+  ]
+}
