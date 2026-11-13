@@ -35,7 +35,7 @@ jobs:
 
       - name: Executer extraction
         run: |
-          python extractions/calendrier/extract_calendrier.py
+          python -u extractions/calendrier/extract_calendrier.py
 
       - name: Enregistrer les resultats
         run: |
