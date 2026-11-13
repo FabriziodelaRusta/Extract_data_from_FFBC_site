@@ -29,7 +29,8 @@ from bs4 import BeautifulSoup
 # CONFIGURATION
 # ==================================================
 
-BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR = Path(__file__).resolve().parents[2] / "data" / "calendrier"
+BASE_DIR.mkdir(parents=True, exist_ok=True)
 
 BASE_URL = "https://www.velo-liberte.be/wp-content/themes/zapedah-child"
 URL_CALENDRIER = BASE_URL + "/assets/scripts/ajax_request_calendrier.php"
