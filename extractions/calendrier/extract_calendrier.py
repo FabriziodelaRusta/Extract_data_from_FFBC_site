@@ -647,6 +647,22 @@ def fusionner_toutes_les_annees():
         f"années : {', '.join(map(str, sorted(annees))) or 'aucune'})"
     )
 
+def supprimer_fichiers_mensuels():
+    """Supprimer les fichiers CSV et JSON mensuels."""
+
+    motif = re.compile(
+        r"calendrier_ffbc_\d{4}-\d{2}\.(csv|json)$"
+    )
+
+    nombre = 0
+
+    for fichier in BASE_DIR.iterdir():
+        if fichier.is_file() and motif.fullmatch(fichier.name):
+            fichier.unlink()
+            nombre += 1
+            print(f"Fichier supprimé : {fichier.name}")
+
+    print(f"Nettoyage terminé : {nombre} fichier(s) supprimé(s).")
 
 # ==================================================
 # PROGRAMME PRINCIPAL
@@ -744,8 +760,23 @@ def main():
         for annee_fusion in sorted(annees):
             fusionner_fichiers_mensuels(annee_fusion)
 
-        # Créer aussi un fichier unique rassemblant les mois de toutes les années.
+        # Créer un fichier unique rassemblant toutes les années.
         fusionner_toutes_les_annees()
+
+        # Vérifier que les deux fichiers cumulés existent.
+        fichier_csv = BASE_DIR / "calendrier_ffbc.csv"
+        fichier_json = BASE_DIR / "calendrier_ffbc.json"
+
+        if fichier_csv.is_file() and fichier_json.is_file():
+
+            # Supprimer les fichiers mensuels.
+            supprimer_fichiers_mensuels()
+
+        else:
+            raise RuntimeError(
+                "Les fichiers cumulés CSV et JSON sont absents. "
+                "Les fichiers mensuels sont conservés."
+            )
 
     except requests.RequestException as erreur:
         print(f"Erreur de connexion au calendrier FFBC : {erreur}")
