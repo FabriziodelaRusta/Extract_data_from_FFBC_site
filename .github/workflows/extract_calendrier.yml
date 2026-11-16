@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Recuperer le depot
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Installer Python
         uses: actions/setup-python@v5
@@ -41,10 +43,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add data/calendrier/
+
           if ! git diff --cached --quiet; then
             git commit -m "Mise a jour quotidienne du calendrier FFBC"
-            git push
+            git pull --rebase origin main
+            git push origin main
           else
             echo "Aucune modification des donnees"
           fi
