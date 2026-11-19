@@ -4,8 +4,8 @@
     2026,
     2027
   ],
-  "date_extraction": "2026-11-18",
-  "nombre_randonnées": 602,
+  "date_extraction": "2026-11-19",
+  "nombre_randonnées": 603,
   "randonnées": [
     {
       "id": "9471",
@@ -15804,6 +15804,75 @@
         {
           "libelle": "www.cyclos-emptinnois.com",
           "url": "http://www.cyclos-emptinnois.com"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10421",
+      "nom": "Summer Sport VTT des Collines",
+      "date": "2027-06-26",
+      "province": "Hainaut",
+      "code_postal": "7911",
+      "localite": "Frasnes-Lez-Anvaing",
+      "texte_calendrier": "Voir plus + Voir moins - Summer Sport VTT des Collines Samedi 26 Juin 2027 Hainaut - 7911 Frasnes-Lez-Anvaing",
+      "lieu_depart": "Hangar Messiaen",
+      "adresse": "6 Rue Delfosse 7911 Frasnes-Lez-Anvaing",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=6 Rue Delfosse 7911 Frasnes-Lez-Anvaing",
+      "club": "2203 - Summersport des Collines",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 60,
+          "denivele": "D+ : 1080",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "3",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 48,
+          "denivele": "D+ : 780",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "VTT",
+          "distance_km": 35,
+          "denivele": "D+ : 630",
+          "difficulte": null,
+          "horaires": "07h30 - 10h00",
+          "ravitaillement": "2",
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 9,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 11h00",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 6,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "07h30 - 11h00",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Casque OBLIGATOIRE - bike wash - parc gardé -\nbar et restauration - facebook.com/summersportdescollinesfabrice/",
+      "liens_externes": [
+        {
+          "libelle": "www.summersport.be",
+          "url": "http://www.summersport.be"
         }
       ],
       "latitude": null,
