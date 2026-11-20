@@ -4,8 +4,8 @@
     2026,
     2027
   ],
-  "date_extraction": "2026-11-19",
-  "nombre_randonnées": 603,
+  "date_extraction": "2026-11-20",
+  "nombre_randonnées": 604,
   "randonnées": [
     {
       "id": "9471",
@@ -633,6 +633,52 @@
           "url": "http://"
         }
       ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "9886",
+      "nom": "Balade Nocturne de Noël",
+      "date": "2026-12-12",
+      "province": "Hainaut",
+      "code_postal": "7860",
+      "localite": "LESSINES",
+      "texte_calendrier": "Voir plus + Voir moins - Balade Nocturne de Noël Samedi 12 Décembre 2026 Hainaut - 7860 LESSINES",
+      "lieu_depart": "Ancienne caserne des pompiers",
+      "adresse": "54 Rue des 4 Fils Aymon 7860 LESSINES",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=54 Rue des 4 Fils Aymon 7860 LESSINES",
+      "club": "2302 - VTT Team Lessines",
+      "parcours": [
+        {
+          "type": "VTT",
+          "distance_km": 30,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "18h00 - 21h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 10,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "18h00 - 21h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "MARCHE",
+          "distance_km": 5,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "18h00 - 21h30",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "Animations - Parc Gardé - wash - douches - \nvestiaires - VTT: 5€/Marche: 2€ Ravito festif",
+      "liens_externes": [],
       "latitude": null,
       "longitude": null
     },
@@ -5350,6 +5396,75 @@
         {
           "libelle": "www.sites.google.com/view/cycloaudaxsambrien",
           "url": "http://www.sites.google.com/view/cycloaudaxsambrien"
+        }
+      ],
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "10824",
+      "nom": "La Provinciale",
+      "date": "2027-03-14",
+      "province": "Luxembourg",
+      "code_postal": "6800",
+      "localite": "LIBRAMONT (Bras-Haut)",
+      "texte_calendrier": "Voir plus + Voir moins - La Provinciale Dimanche 14 Mars 2027 Luxembourg - 6800 LIBRAMONT (Bras-Haut)",
+      "lieu_depart": "Salle TT Bras",
+      "adresse": "105 rue de Mochamps 6800 LIBRAMONT (Bras-Haut)",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=105 rue de Mochamps 6800 LIBRAMONT (Bras-Haut)",
+      "club": "55105 - F.F.B.C. Luxembourg",
+      "parcours": [
+        {
+          "type": "ROUTE",
+          "distance_km": 80,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 10h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 10h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 50,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 10h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "ROUTE",
+          "distance_km": 35,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 10h30",
+          "ravitaillement": null,
+          "tarif": null
+        },
+        {
+          "type": "GRAVEL",
+          "distance_km": 30,
+          "denivele": "D+ : N.A",
+          "difficulte": null,
+          "horaires": "08h00 - 10h30",
+          "ravitaillement": null,
+          "tarif": null
+        }
+      ],
+      "remarque": "parcours CYCLO fléchés / GRAVEL GPX\nRavito au départ / Audax 50km préinscription\nRandonnée philanthropique à votre rythme",
+      "liens_externes": [
+        {
+          "libelle": "https://www.velo-liberte.be/trouvez-un-club/",
+          "url": "http://https://www.velo-liberte.be/trouvez-un-club/"
         }
       ],
       "latitude": null,
@@ -11968,8 +12083,8 @@
       "date": "2027-05-22",
       "province": "Namur",
       "code_postal": "5580",
-      "localite": "ROCHEFORT (JEMELLE) Brevet à Dénivelé Brevet Cyclo-côteur belge GRAVEL",
-      "texte_calendrier": "Voir plus + Voir moins - La Magnifique 2027 Samedi 22 Mai 2027 Namur - 5580 ROCHEFORT (JEMELLE) Brevet à Dénivelé Brevet Cyclo-côteur belge GRAVEL",
+      "localite": "ROCHEFORT (JEMELLE) Brevet à Dénivelé Brevet Cyclo-côteur belge Gran Fondo FFBC GRAVEL",
+      "texte_calendrier": "Voir plus + Voir moins - La Magnifique 2027 Samedi 22 Mai 2027 Namur - 5580 ROCHEFORT (JEMELLE) Brevet à Dénivelé Brevet Cyclo-côteur belge Gran Fondo FFBC GRAVEL",
       "lieu_depart": "Hall Omnisports de Rochefort-Jemelle",
       "adresse": "46 Rue des Jardins 5580 ROCHEFORT (JEMELLE)",
       "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=46 Rue des Jardins 5580 ROCHEFORT (JEMELLE)",
@@ -15737,8 +15852,8 @@
       "date": "2027-06-26",
       "province": "Namur",
       "code_postal": "5590",
-      "localite": "Achêne Brevet à Dénivelé Brevet Cyclo-côteur belge",
-      "texte_calendrier": "Voir plus + Voir moins - L'Atypique Samedi 26 Juin 2027 Namur - 5590 Achêne Brevet à Dénivelé Brevet Cyclo-côteur belge",
+      "localite": "Achêne Brevet à Dénivelé Brevet Cyclo-côteur belge Gran Fondo FFBC",
+      "texte_calendrier": "Voir plus + Voir moins - L'Atypique Samedi 26 Juin 2027 Namur - 5590 Achêne Brevet à Dénivelé Brevet Cyclo-côteur belge Gran Fondo FFBC",
       "lieu_depart": "FC Achêne",
       "adresse": "0 rue du cercle de tir 5590 Achêne",
       "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=0 rue du cercle de tir 5590 Achêne",
@@ -17733,13 +17848,22 @@
       "date": "2027-07-17",
       "province": "Liège",
       "code_postal": "4920",
-      "localite": "Remouchamps Brevet à Dénivelé Brevet Cyclo-côteur belge GRAVEL RANDOCOL",
-      "texte_calendrier": "Voir plus + Voir moins - MAX'S DE COLS Samedi 17 Juillet 2027 Liège - 4920 Remouchamps Brevet à Dénivelé Brevet Cyclo-côteur belge GRAVEL RANDOCOL",
+      "localite": "Remouchamps Brevet à Dénivelé Brevet Cyclo-côteur belge Gran Fondo FFBC GRAVEL RANDOCOL",
+      "texte_calendrier": "Voir plus + Voir moins - MAX'S DE COLS Samedi 17 Juillet 2027 Liège - 4920 Remouchamps Brevet à Dénivelé Brevet Cyclo-côteur belge Gran Fondo FFBC GRAVEL RANDOCOL",
       "lieu_depart": "RFC Aywaille",
       "adresse": "36 av. de la porallée 4920 Remouchamps",
       "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=36 av. de la porallée 4920 Remouchamps",
       "club": "8620 - La Redoute d Aywaille",
       "parcours": [
+        {
+          "type": "BCCB",
+          "distance_km": 206,
+          "denivele": "D+ : 3300",
+          "difficulte": "Très Difficile",
+          "horaires": "06h30 - 08h00",
+          "ravitaillement": "4",
+          "tarif": "FFBC : 6,50€ / NON FFBC : 8,00€"
+        },
         {
           "type": "BCCB",
           "distance_km": 170,
@@ -19877,8 +20001,8 @@
       "date": "2027-08-14",
       "province": "Namur",
       "code_postal": "5360",
-      "localite": "Natoye - Hamois Brevet à Dénivelé Brevet Cyclo-côteur belge",
-      "texte_calendrier": "Voir plus + Voir moins - L'Inattendue Samedi 14 Août 2027 Namur - 5360 Natoye - Hamois Brevet à Dénivelé Brevet Cyclo-côteur belge",
+      "localite": "Natoye - Hamois Brevet à Dénivelé Brevet Cyclo-côteur belge Gran Fondo FFBC",
+      "texte_calendrier": "Voir plus + Voir moins - L'Inattendue Samedi 14 Août 2027 Namur - 5360 Natoye - Hamois Brevet à Dénivelé Brevet Cyclo-côteur belge Gran Fondo FFBC",
       "lieu_depart": "Centre Sportif de Natoye",
       "adresse": "31 Rue du Château d'eau 5360 Natoye - Hamois",
       "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=31 Rue du Château d'eau 5360 Natoye - Hamois",
@@ -21460,111 +21584,6 @@
       "longitude": null
     },
     {
-      "id": "10432",
-      "nom": "Bel'Gaum Raid",
-      "date": "2027-08-29",
-      "province": "Luxembourg",
-      "code_postal": "6730",
-      "localite": "BELLEFONTAINE",
-      "texte_calendrier": "Voir plus + Voir moins - Bel'Gaum Raid Dimanche 29 Août 2027 Luxembourg - 6730 BELLEFONTAINE",
-      "lieu_depart": "Centre sportif",
-      "adresse": "77  Place J.Ch. de Hugo 6730 BELLEFONTAINE",
-      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=77  Place J.Ch. de Hugo 6730 BELLEFONTAINE",
-      "club": "9708 - BELLEFONTAINE Cyclo-Club",
-      "parcours": [
-        {
-          "type": "VTT",
-          "distance_km": 83,
-          "denivele": "D+ : 1591",
-          "difficulte": null,
-          "horaires": "07h00 - 09h00",
-          "ravitaillement": "4",
-          "tarif": "FFBC : 7,00€ / NON FFBC : 8,50€"
-        },
-        {
-          "type": "VTT",
-          "distance_km": 69,
-          "denivele": "D+ : 1249",
-          "difficulte": null,
-          "horaires": "07h00 - 09h30",
-          "ravitaillement": "3",
-          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
-        },
-        {
-          "type": "VTT",
-          "distance_km": 63,
-          "denivele": "D+ : 1159",
-          "difficulte": null,
-          "horaires": "07h00 - 09h30",
-          "ravitaillement": "3",
-          "tarif": "FFBC : 6,00€ / NON FFBC : 7,50€"
-        },
-        {
-          "type": "VTT",
-          "distance_km": 48,
-          "denivele": "D+ : 813",
-          "difficulte": null,
-          "horaires": "07h00 - 10h30",
-          "ravitaillement": "2",
-          "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
-        },
-        {
-          "type": "VTT",
-          "distance_km": 34,
-          "denivele": "D+ : 496",
-          "difficulte": null,
-          "horaires": "07h00 - 10h30",
-          "ravitaillement": "1",
-          "tarif": "FFBC : 4,50€ / NON FFBC : 6,00€"
-        },
-        {
-          "type": "VTT",
-          "distance_km": 27,
-          "denivele": "D+ : 404",
-          "difficulte": null,
-          "horaires": "07h00 - 10h30",
-          "ravitaillement": "1",
-          "tarif": "FFBC : 4,00€ / NON FFBC : 5,50€"
-        },
-        {
-          "type": "VTT",
-          "distance_km": 17,
-          "denivele": "D+ : 243",
-          "difficulte": null,
-          "horaires": "07h00 - 10h30",
-          "ravitaillement": "1",
-          "tarif": "FFBC : 3,00€ / NON FFBC : 4,50€"
-        },
-        {
-          "type": "MARCHE",
-          "distance_km": 10,
-          "denivele": "D+ : 105",
-          "difficulte": null,
-          "horaires": "07h00 - 10h30",
-          "ravitaillement": null,
-          "tarif": null
-        },
-        {
-          "type": "MARCHE",
-          "distance_km": 5,
-          "denivele": "D+ : 58",
-          "difficulte": null,
-          "horaires": "07h00 - 10h30",
-          "ravitaillement": null,
-          "tarif": null
-        }
-      ],
-      "remarque": "Bike wash /  Pas de douches\nPetite restauration\nBike parc de 11h00 à 13h30",
-      "liens_externes": [
-        {
-          "libelle": "www.ccbellefontaine.be",
-          "url": "http://www.ccbellefontaine.be"
-        }
-      ],
-      "latitude": null,
-      "longitude": null
-    },
-    {
       "id": "10218",
       "nom": "L'Arel Bësch",
       "date": "2027-08-29",
@@ -21844,11 +21863,11 @@
       "date": "2027-08-29",
       "province": "Liège",
       "code_postal": "4920",
-      "localite": "AYWAILLE",
-      "texte_calendrier": "Voir plus + Voir moins - La Redoutable VTT Dimanche 29 Août 2027 Liège - 4920  AYWAILLE",
-      "lieu_depart": "centre sportif d'Aywaille",
-      "adresse": "1 Esplanade du fair play 4920  AYWAILLE",
-      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=1 Esplanade du fair play 4920  AYWAILLE",
+      "localite": "REMOUCHAMPS",
+      "texte_calendrier": "Voir plus + Voir moins - La Redoutable VTT Dimanche 29 Août 2027 Liège - 4920 REMOUCHAMPS",
+      "lieu_depart": "Centre récréatif de Remouchamps",
+      "adresse": "10 Rue Marsale 4920 REMOUCHAMPS",
+      "lien_itineraire": "https://www.google.com/maps/search/?api=1&query=10 Rue Marsale 4920 REMOUCHAMPS",
       "club": "8620 - La Redoute d Aywaille",
       "parcours": [
         {
@@ -21906,7 +21925,7 @@
           "tarif": "FFBC : 5,00€ / NON FFBC : 6,50€"
         }
       ],
-      "remarque": "Resto/Bikewash/Tel F/NL +3243686722\nVaste parking  Parking vélos gardé et gratuit\nNouveaux parcours-Bar et petite restauration",
+      "remarque": "Resto/Bikewash/Tel : +32495121148\nVaste parking  Parking vélos gardé et gratuit\nNouveaux parcours-Bar et petite restauration",
       "liens_externes": [
         {
           "libelle": "www.vclaredoute.be",
